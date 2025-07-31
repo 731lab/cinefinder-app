@@ -10,12 +10,14 @@ export default function Home() {
   const [loading, setLoading] = useState(false);
   const [suggestions, setSuggestions] = useState([]);
   const [showSuggestions, setShowSuggestions] = useState(false);
+  const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://cinefinder-backend-322727979682.europe-west1.run.app";
+  console.log("🛠️ FRONTEND: API_URL =", API_URL);
 
   const fetchSuggestions = async (q) => {
     if (q.length < 2) return setSuggestions([]);
     try {
       const { data } = await axios.get('https://api.themoviedb.org/3/search/movie', {
-        params: { api_key: 'b91766799d7320f59370587fc38d9a93', query: q }
+        params: { api_key: 'b91766799d7320f59370587fc38d9a93', query: q, language: 'it-IT'  }
       });
       setSuggestions(data.results.slice(0, 5));
       setShowSuggestions(true);
@@ -27,7 +29,7 @@ export default function Home() {
   const handleSearch = async () => {
     setLoading(true);
     try {
-      const { data } = await axios.get(`http://localhost:8000/search?q=${encodeURIComponent(query)}`);
+      const { data } = await axios.get(`${API_URL}/search?q=${encodeURIComponent(query)}`);
       setResult(data);
     } catch {
       setResult({ error: 'Errore nella richiesta.' });

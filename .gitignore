@@ -5,3 +5,4 @@ node_modules/
 # virtualenv
 venv/
 .env
+.env.local

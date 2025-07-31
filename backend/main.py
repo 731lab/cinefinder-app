@@ -6,7 +6,9 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import os
 
-
+from dotenv import load_dotenv
+# carica il file .env.local nella cartella backend/
+load_dotenv(dotenv_path=".env.local")
 
 app = FastAPI()
 
@@ -19,8 +21,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-TMDB_API_KEY = "b91766799d7320f59370587fc38d9a93"
-WATCHMODE_API_KEY = "b8PvjAKzOqDAeJ27gk887ZOQNE4Gcoy3yJDWfHiT"
+TMDB_API_KEY     = os.getenv("TMDB_API_KEY")
+WATCHMODE_API_KEY = os.getenv("WATCHMODE_API_KEY")
+if not TMDB_API_KEY or not WATCHMODE_API_KEY:
+    raise RuntimeError("Imposta le variabili d'ambiente TMDB_API_KEY e WATCHMODE_API_KEY")
 
 
 #TMDB_API_KEY    = os.getenv("TMDB_API_KEY")
