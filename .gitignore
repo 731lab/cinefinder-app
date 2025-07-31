@@ -1,5 +1,7 @@
+# dipendenze
 node_modules/
+**/node_modules/
+
+# virtualenv
+venv/
 .env
-.venv/
-*.pyc
-__pycache__/
