@@ -1,0 +1,1446 @@
+{
+  "person": "Keir Dullea",
+  "results": [
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+        "belongs_to_collection": {
+          "id": 4438,
+          "name": "Odissea nello spazio - Collezione",
+          "poster_path": "/5YWqk2QqZx4OuSi29Sg7EuAwuZf.jpg",
+          "backdrop_path": "/mGeBxBuhU7yx2Ga4U2ST4reEDeb.jpg"
+        },
+        "budget": 12000000,
+        "genres": [
+          {
+            "id": 878,
+            "name": "Fantascienza"
+          },
+          {
+            "id": 9648,
+            "name": "Mistero"
+          },
+          {
+            "id": 12,
+            "name": "Avventura"
+          }
+        ],
+        "homepage": "",
+        "id": 62,
+        "imdb_id": "tt0062622",
+        "origin_country": [
+          "US",
+          "GB"
+        ],
+        "original_language": "en",
+        "original_title": "2001: A Space Odyssey",
+        "overview": "Un gigantesco monolite, individuato sulla superficie lunare, trasmette dei messaggi radio in direzione del pianeta Giove. Per seguire il fascio di onde elettromagnetiche viene organizzata una spedizione che ben presto però si trova in balia del computer che governa l'astronave. La lotta avrà un solo vincitore.",
+        "popularity": 9.6135,
+        "poster_path": "/b5UQwYxeKoutvbtp3eLkY5iilJX.jpg",
+        "production_companies": [
+          {
+            "id": 385,
+            "logo_path": null,
+            "name": "Stanley Kubrick Productions",
+            "origin_country": "GB"
+          },
+          {
+            "id": 21,
+            "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1968-04-02",
+        "revenue": 71923560,
+        "runtime": 141,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Un'epica e drammatica avventura di esplorazione del cosmo.",
+        "title": "2001: Odissea nello spazio",
+        "video": false,
+        "vote_average": 8.065,
+        "vote_count": 11949
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Keir Dullea",
+          "Gary Lockwood",
+          "William Sylvester"
+        ]
+      },
+      "genres": [
+        "Fantascienza",
+        "Mistero",
+        "Avventura"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/ivPu3t2j4Fg",
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/yFQXjAdy3Jxx4hXW0YNWMw43h4y.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 878,
+            "name": "Fantascienza"
+          }
+        ],
+        "homepage": "",
+        "id": 171542,
+        "imdb_id": "tt2069787",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "HENRi",
+        "overview": "",
+        "popularity": 0.117,
+        "poster_path": "/m9Xuwfg5DOF4FeGqQA1QvJwmF0h.jpg",
+        "production_companies": [],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2013-02-26",
+        "revenue": 0,
+        "runtime": 21,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "HENRi",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 11
+      },
+      "credits": {
+        "director": "Eli Sasich",
+        "cast": [
+          "Keir Dullea",
+          "Margot Kidder",
+          "Zoe Reheem"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Fantascienza"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/2Rx61lWWkxR0jeaBi0H0CJQm35b.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 30416,
+        "imdb_id": "tt0278736",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Stanley Kubrick: A Life in Pictures",
+        "overview": "La carriera del cineasta è messa a fuoco in questo avvincente documentario che offre un'occhiata su Kubrick nei suoi primi anni, al lavoro su set cinematografici e a casa, arricchito da commenti spontanei di collaboratori, colleghi e famiglia.",
+        "popularity": 1.1035,
+        "poster_path": "/yGrzFNyc9ztyAJejneh9734Y9Uj.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2001-05-02",
+        "revenue": 0,
+        "runtime": 141,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Stanley Kubrick: A Life in Pictures",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 193
+      },
+      "credits": {
+        "director": "Jan Harlan",
+        "cast": [
+          "Tom Cruise",
+          "Barbara Kroner",
+          "Steven Marcus"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/30416-stanley-kubrick-a-life-in-pictures/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/30416-stanley-kubrick-a-life-in-pictures/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/30416-stanley-kubrick-a-life-in-pictures/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/30416-stanley-kubrick-a-life-in-pictures/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/v0kWieDdaMpThbcLr3lsjvCBj4I.jpg",
+        "belongs_to_collection": null,
+        "budget": 185000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 109667,
+        "imdb_id": "tt0055892",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "David and Lisa",
+        "overview": "David è un giovane affetto da turbe ossessive, in particolare dalla fobia per il contatto fisico con gli altri. Dopo numerose cure senza risultato, la madre lo accompagna in un istituto per psicopatici. Qui David comincia a “sentire” la presenza di un’altra ospite della clinica, Lisa, una ragazza con una serie di manie, una delle quali è il parlare in rima. Anche Lisa avverte strane presenze, e tra i due si stabilisce un legame molto forte...",
+        "popularity": 1.5488,
+        "poster_path": "/jujTT52xmggRVwdWvSD2DPqUI1O.jpg",
+        "production_companies": [
+          {
+            "id": 44751,
+            "logo_path": null,
+            "name": "Vision Associates Productions",
+            "origin_country": ""
+          },
+          {
+            "id": 44752,
+            "logo_path": null,
+            "name": "Lisa and David Company",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1962-12-26",
+        "revenue": 0,
+        "runtime": 95,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "David e Lisa",
+        "video": false,
+        "vote_average": 7.281,
+        "vote_count": 57
+      },
+      "credits": {
+        "director": "Frank Perry",
+        "cast": [
+          "Keir Dullea",
+          "Janet Margolin",
+          "Howard Da Silva"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Romance"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Plex",
+          "type": "free",
+          "logo_path": "/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/109667-david-and-lisa/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/u6cyzNiF95GaZFRmNYRDQJoU0Av.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 9648,
+            "name": "Mistero"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 1942,
+        "imdb_id": "tt0058997",
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_title": "Bunny Lake Is Missing",
+        "overview": "Londra, primi anni sessanta. Ann Lake, una giovane madre americana, è appena arrivata in Inghilterra dagli Stati Uniti, progettando di stabilirvisi con la figlia di 4 anni, Bunny, e suo fratello Stephen, giornalista. Al termine del primo giorno di scuola alla Little People's School,  Ann va a prendere la bambina ma non la trova, e la scuola non ha nessuna registrazione a suo nome.",
+        "popularity": 0.8954,
+        "poster_path": "/5B4zgEGXbgy1jRNoeVvYFDGgn3N.jpg",
+        "production_companies": [
+          {
+            "id": 800,
+            "logo_path": null,
+            "name": "Wheel Productions",
+            "origin_country": ""
+          },
+          {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          }
+        ],
+        "release_date": "1965-10-03",
+        "revenue": 0,
+        "runtime": 107,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Bunny Lake è scomparsa",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 191
+      },
+      "credits": {
+        "director": "Otto Preminger",
+        "cast": [
+          "Carol Lynley",
+          "Laurence Olivier",
+          "Keir Dullea"
+        ]
+      },
+      "genres": [
+        "Mistero",
+        "Thriller"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/s46nIyQQtZZPI8kw7A71Iuauk57.jpg",
+        "belongs_to_collection": null,
+        "budget": 686000,
+        "genres": [
+          {
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "id": 9648,
+            "name": "Mistero"
+          }
+        ],
+        "homepage": "",
+        "id": 16938,
+        "imdb_id": "tt0071222",
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_title": "Black Christmas",
+        "overview": "È ormai Natale e le ragazze della confraternita si preparano alle vacanze mentre strane telefonate anonime cominciano a portare preoccupazione nel college. Quando una delle giovani scompare, la polizia non sembra prendersela più di tanto: è Natale, e tutti hanno la testa alla festività imminente. Nel frattempo, però, il cadavere di una ragazza viene ritrovato nel bosco, le telefonate si fanno sempre più frequenti e oscene mentre il numero delle donne scomparse cresce. Un assassino psicopatico sta portando a termine il suo macabro piano...",
+        "popularity": 1.2505,
+        "poster_path": "/pbHcRXZ6bP5LdXoAb5luCaS8rfo.jpg",
+        "production_companies": [
+          {
+            "id": 43459,
+            "logo_path": null,
+            "name": "August Films",
+            "origin_country": ""
+          },
+          {
+            "id": 3238,
+            "logo_path": null,
+            "name": "Film Funding Ltd. of Canada",
+            "origin_country": ""
+          },
+          {
+            "id": 17468,
+            "logo_path": null,
+            "name": "Vision IV",
+            "origin_country": ""
+          },
+          {
+            "id": 4952,
+            "logo_path": null,
+            "name": "Canadian Film Development Corporation",
+            "origin_country": "CA"
+          },
+          {
+            "id": 36555,
+            "logo_path": null,
+            "name": "Famous Players",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+          }
+        ],
+        "release_date": "1974-10-11",
+        "revenue": 4000000,
+        "runtime": 98,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Black Christmas (Un Natale rosso sangue)",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 857
+      },
+      "credits": {
+        "director": "Bob Clark",
+        "cast": [
+          "Olivia Hussey",
+          "Keir Dullea",
+          "Margot Kidder"
+        ]
+      },
+      "genres": [
+        "Horror",
+        "Mistero"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "MIDNIGHT FACTORY Amazon Channel",
+          "type": "flatrate",
+          "logo_path": "/sL8ViH6zWOe07xHoiwxUwCXy890.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/16938-black-christmas/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/16938-black-christmas/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/16938-black-christmas/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/dtAFWOye1xYyFDAbfkcAbTU3ndD.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Commedia"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 447193,
+        "imdb_id": "tt4425518",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "April Flowers",
+        "overview": "",
+        "popularity": 0.5107,
+        "poster_path": "/4cVoQmPjhF3SjaXinNo2nXHk79f.jpg",
+        "production_companies": [
+          {
+            "id": 87801,
+            "logo_path": null,
+            "name": "Myopia Pictures",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2020-10-22",
+        "revenue": 0,
+        "runtime": 85,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "April Flowers",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+      },
+      "credits": {
+        "director": "Christopher Tedrick",
+        "cast": [
+          "Keir Dullea",
+          "Celina Jade",
+          "Jon Fletcher"
+        ]
+      },
+      "genres": [
+        "Commedia",
+        "Romance"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Plex",
+          "type": "free",
+          "logo_path": "/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/447193-april-flowers/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/8zvo2J1rKbzcfxaX9lHRgHgOEf0.jpg",
+        "belongs_to_collection": {
+          "id": 4438,
+          "name": "Odissea nello spazio - Collezione",
+          "poster_path": "/5YWqk2QqZx4OuSi29Sg7EuAwuZf.jpg",
+          "backdrop_path": "/mGeBxBuhU7yx2Ga4U2ST4reEDeb.jpg"
+        },
+        "budget": 28000000,
+        "genres": [
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 878,
+            "name": "Fantascienza"
+          }
+        ],
+        "homepage": "",
+        "id": 4437,
+        "imdb_id": "tt0086837",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "2010",
+        "overview": "Nove anni dopo la spedizione del Discovery, scienziati sovietici e americani partono a bordo dell'astronave Leonov verso Giove per scoprire il mistero del monolito nero e le ragioni del precedente fallimento. Deludente seguito del magistrale 2001: Odissea nello spazio (1968) di Kubrick. Hyams cerca di essere meno mistico e più concreto, ma ci riesce solo in parte. Ammirevoli effetti speciali di Richard Edlund. A.C. Clarke, anche qui autore del testo originale, ha dato alle stampe un 3° capitolo 2061: Odissea tre.",
+        "popularity": 2.6669,
+        "poster_path": "/aExyNrGeuenYUuwKlHcynsdZuIE.jpg",
+        "production_companies": [
+          {
+            "id": 21,
+            "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1984-12-06",
+        "revenue": 40400000,
+        "runtime": 116,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          }
+        ],
+        "status": "Released",
+        "tagline": "L'anno in cui un gruppo di americani e russi intraprese la più grande avventura di tutti i tempi per vedere se c'era vita oltre le stelle.",
+        "title": "2010 - L'anno del contatto",
+        "video": false,
+        "vote_average": 6.641,
+        "vote_count": 985
+      },
+      "credits": {
+        "director": "Peter Hyams",
+        "cast": [
+          "Roy Scheider",
+          "John Lithgow",
+          "Helen Mirren"
+        ]
+      },
+      "genres": [
+        "Thriller",
+        "Fantascienza"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/1YyN0unfvnU",
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4437-2010/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4437-2010/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4437-2010/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4437-2010/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4437-2010/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4437-2010/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4437-2010/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4437-2010/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4437-2010/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4437-2010/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/cgu22PGyj7Bi5sSGA5VuymI2Z7n.jpg",
+        "belongs_to_collection": null,
+        "budget": 6700000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 35,
+            "name": "Commedia"
+          }
+        ],
+        "homepage": "",
+        "id": 244539,
+        "imdb_id": "tt1969062",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Infinitely Polar Bear",
+        "overview": "Cameron è un padre che ha avuto un esaurimento nervoso e si ritrova disoccupato, Maggie una madre lavoratrice che non riesce a mantenere la famiglia. Nonostante l'estrazione sociale e l'alto livello di istruzione della coppia, i due sono al verde. Quando Maggie accetta una borsa di studio per un MBA a New York e lascia le due figlie a Boston con il padre, Cameron, che si è ripreso dall'esaurimento, si trova così a doversi prendere cura da solo delle due eccentriche e vivaci ragazze che non gli renderanno il compito facile.",
+        "popularity": 1.0032,
+        "poster_path": "/wAz5nqrv8JYHMUftYGL5EACtG2G.jpg",
+        "production_companies": [
+          {
+            "id": 13466,
+            "logo_path": "/d2ewBAUkCGeYMj6bv2Z9PkzL5OA.png",
+            "name": "Park Pictures Features",
+            "origin_country": "US"
+          },
+          {
+            "id": 7372,
+            "logo_path": "/ouJZliqslZepeihJHqBYWoBNBqR.png",
+            "name": "Paper Street Films",
+            "origin_country": "US"
+          },
+          {
+            "id": 11461,
+            "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+            "name": "Bad Robot",
+            "origin_country": "US"
+          },
+          {
+            "id": 51566,
+            "logo_path": null,
+            "name": "KGB Media",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2014-01-18",
+        "revenue": 1430655,
+        "runtime": 90,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "A volte la famiglia è la miglior medicina",
+        "title": "Teneramente folle",
+        "video": false,
+        "vote_average": 6.626,
+        "vote_count": 378
+      },
+      "credits": {
+        "director": "Maya Forbes",
+        "cast": [
+          "Mark Ruffalo",
+          "Zoe Saldaña",
+          "Imogene Wolodarsky"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Commedia"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/HWMpAyAMQlQ",
+      "providers": [
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/244539-infinitely-polar-bear/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/244539-infinitely-polar-bear/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/244539-infinitely-polar-bear/watch?locale=IT"
+        },
+        {
+          "name": "CG tv",
+          "type": "rent",
+          "logo_path": "/aRy3fDxHOKRq3nhC5J4Sp96kW2b.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/244539-infinitely-polar-bear/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/244539-infinitely-polar-bear/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/244539-infinitely-polar-bear/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/244539-infinitely-polar-bear/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/sNGuyH7GtfEIwujtlF4lRvpkUDL.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Commedia"
+          },
+          {
+            "id": 37,
+            "name": "Western"
+          }
+        ],
+        "homepage": "",
+        "id": 202941,
+        "imdb_id": "tt0058318",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Mail Order Bride",
+        "overview": "L'anziano Will Lane organizza il matrimonio del figlio selvaggio di un amico morto per addomesticarlo.",
+        "popularity": 0.6206,
+        "poster_path": "/6avCTgRgMmuwfNmxOVLHIRygHP2.jpg",
+        "production_companies": [
+          {
+            "id": 21,
+            "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1964-03-10",
+        "revenue": 0,
+        "runtime": 83,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Ad ovest del Montana",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 5
+      },
+      "credits": {
+        "director": "Burt Kennedy",
+        "cast": [
+          "Buddy Ebsen",
+          "Keir Dullea",
+          "Lois Nettleton"
+        ]
+      },
+      "genres": [
+        "Commedia",
+        "Western"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/A22MREXcdBifQpJRNftH5HFRiDv.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          },
+          {
+            "id": 16,
+            "name": "Animazione"
+          }
+        ],
+        "homepage": "",
+        "id": 522307,
+        "imdb_id": "tt8545472",
+        "origin_country": [
+          "ES"
+        ],
+        "original_language": "es",
+        "original_title": "2001 : Destellos en la oscuridad",
+        "overview": "",
+        "popularity": 0.128,
+        "poster_path": "/ysw9cXz4xcmbpRX3gVZEVZUdCq6.jpg",
+        "production_companies": [
+          {
+            "id": 10915,
+            "logo_path": "/9NERkCpElyvb6RWNnWp4G4XWAKa.png",
+            "name": "Turner Classic Movies",
+            "origin_country": "US"
+          },
+          {
+            "id": 107074,
+            "logo_path": null,
+            "name": "TCM España",
+            "origin_country": "ES"
+          },
+          {
+            "id": 107075,
+            "logo_path": null,
+            "name": "3D2DFRENTE",
+            "origin_country": ""
+          },
+          {
+            "id": 107076,
+            "logo_path": null,
+            "name": "B-MICE",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+          }
+        ],
+        "release_date": "2018-05-10",
+        "revenue": 0,
+        "runtime": 20,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "2001 : Destellos en la oscuridad",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 8
+      },
+      "credits": {
+        "director": "Pedro González Bermúdez",
+        "cast": [
+          "Keir Dullea",
+          "Peter Prukl"
+        ]
+      },
+      "genres": [
+        "Documentario",
+        "Animazione"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/3Fi6omnUx2ClAIJH220j5OIaSYi.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          },
+          {
+            "id": 878,
+            "name": "Fantascienza"
+          }
+        ],
+        "homepage": "",
+        "id": 53164,
+        "imdb_id": "tt1014669",
+        "origin_country": [
+          "US",
+          "GB"
+        ],
+        "original_language": "en",
+        "original_title": "2001: The Making of a Myth",
+        "overview": "Stanley Kubrick non è vissuto abbastanza per vedere cosa avrebbe effettivamente portato l'anno 2001. Ma ad oltre tre decenni dalla realizzazione, il suo film visionario, 2001: Odissea nello spazio, rimane un vero classico del cinema moderno. Questo avvincente documentario ci offre un raro e prezioso spaccato della produzione di uno dei più grandi film della storia del cinema.",
+        "popularity": 0.1772,
+        "poster_path": "/wBMiylcPyLhoRUkpSXNG92vewt7.jpg",
+        "production_companies": [
+          {
+            "id": 10903,
+            "logo_path": null,
+            "name": "Atlantic Celtic Films",
+            "origin_country": "GB"
+          },
+          {
+            "id": 10904,
+            "logo_path": null,
+            "name": "Lucida Productions",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          }
+        ],
+        "release_date": "2001-01-13",
+        "revenue": 0,
+        "runtime": 60,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "2001: la realizzazione di un mito",
+        "video": false,
+        "vote_average": 6.52,
+        "vote_count": 25
+      },
+      "credits": {
+        "director": "Paul Joyce",
+        "cast": [
+          "Ed Bishop",
+          "James Cameron",
+          "Arthur C. Clarke"
+        ]
+      },
+      "genres": [
+        "Documentario",
+        "Fantascienza"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/53164-2001-the-making-of-a-myth/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/53164-2001-the-making-of-a-myth/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 9648,
+            "name": "Mistero"
+          },
+          {
+            "id": 10770,
+            "name": "televisione film"
+          }
+        ],
+        "homepage": "",
+        "id": 85190,
+        "imdb_id": "tt0082821",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "No Place to Hide",
+        "overview": "",
+        "popularity": 0.1526,
+        "poster_path": "/SflWxKoFCOdDZcAjV21qlbqNbm.jpg",
+        "production_companies": [
+          {
+            "id": 5740,
+            "logo_path": "/gtV4o9KbnQyuEYycjagKxTdwXX9.png",
+            "name": "Metromedia Producers Corporation",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1981-03-04",
+        "revenue": 0,
+        "runtime": 95,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "No Place to Hide",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 6
+      },
+      "credits": {
+        "director": "John Llewellyn Moxey",
+        "cast": [
+          "Mariette Hartley",
+          "Kathleen Beller",
+          "Arlen Dean Snyder"
+        ]
+      },
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mistero",
+        "televisione film"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 315467,
+        "imdb_id": "tt4015630",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Kubrick Remembered",
+        "overview": "",
+        "popularity": 0.6569,
+        "poster_path": "/w4RlExGY9Z78PnxoWfEegQmLAIt.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2014-11-04",
+        "revenue": 0,
+        "runtime": 83,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Kubrick Remembered",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 12
+      },
+      "credits": {
+        "director": "Gary Khammar",
+        "cast": [
+          "Christiane Kubrick",
+          "Keir Dullea",
+          "Malcolm McDowell"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/k8bHVfEm7AFBGCZqOaNlZ8f7RFI.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "",
+        "id": 42723,
+        "imdb_id": "tt0060645",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Madame X",
+        "overview": "Holly sposa un importante uomo politico, ma durante una delle troppe assenze di lui cede alla corte di uno dei suoi spasimanti. Quando lei vuol interrompere il rapporto, il giovane muore accidentalmente. La famiglia del marito l'allontana. Mélo girato con il solo scopo di riproporre, con una nuova maschera tragica dopo le folgoranti apparizioni di vent'anni prima, l'ex pin up Lana Turner, bionda fatale.",
+        "popularity": 0.5234,
+        "poster_path": "/7Jzi06bhpNY69v4fGI1Zek69bUE.jpg",
+        "production_companies": [
+          {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 1830,
+            "logo_path": null,
+            "name": "Ross Hunter Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1966-03-03",
+        "revenue": 0,
+        "runtime": 100,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Madame X",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 41
+      },
+      "credits": {
+        "director": "David Lowell Rich",
+        "cast": [
+          "Lana Turner",
+          "John Forsythe",
+          "Constance Bennett"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Crime"
+      ],
+      "trailer_url": null,
+      "providers": []
+    }
+  ]
+}

@@ -5,9 +5,12 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import os
-
 from dotenv import load_dotenv
-# carica il file .env.local nella cartella backend/
+import json
+from pathlib import Path
+import hashlib
+
+# Load env
 load_dotenv(dotenv_path=".env.local")
 
 app = FastAPI()
@@ -21,43 +24,132 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-TMDB_API_KEY     = os.getenv("TMDB_API_KEY")
+TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 WATCHMODE_API_KEY = os.getenv("WATCHMODE_API_KEY")
 if not TMDB_API_KEY or not WATCHMODE_API_KEY:
     raise RuntimeError("Imposta le variabili d'ambiente TMDB_API_KEY e WATCHMODE_API_KEY")
 
+# Cache
+CACHE_DIR = Path("cache")
+(CACHE_DIR / "actors").mkdir(parents=True, exist_ok=True)
+(CACHE_DIR / "directors").mkdir(parents=True, exist_ok=True)
 
-#TMDB_API_KEY    = os.getenv("TMDB_API_KEY")
-#WATCHMODE_API_KEY = os.getenv("WATCHMODE_API_KEY")
+def slugify(name: str):
+    return hashlib.sha1(name.lower().encode()).hexdigest()
 
-if not TMDB_API_KEY or not WATCHMODE_API_KEY:
-    raise RuntimeError("Imposta le variabili d'ambiente TMDB_API_KEY e WATCHMODE_API_KEY")
+def load_cache(cache_type: str, name: str):
+    file_path = CACHE_DIR / cache_type / f"{slugify(name)}.json"
+    if file_path.exists():
+        with open(file_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return None
+
+def save_cache(cache_type: str, name: str, data: dict):
+    file_path = CACHE_DIR / cache_type / f"{slugify(name)}.json"
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
 @app.get("/")
 def root():
     return {"message": "CineFinder backend is running!"}
 
 @app.get("/search")
-def search(q: Optional[str] = Query(None), id: Optional[int] = Query(None)):
+def search(q: Optional[str] = Query(None), id: Optional[int] = Query(None), type: Optional[str] = Query("movie"), sort_by: Optional[str] = Query("vote_average")):
     if id:
         return get_by_tmdb_id(id)
-    if q:
-        return search_by_title(q)
-    return {"error": "Nessun parametro fornito"}
+    if not q:
+        return {"error": "Parametro mancante"}
+
+    if type == "movie":
+        return search_by_title(q, sort_by)
+    elif type == "person":
+        return search_by_actor(q, sort_by)
+    elif type == "director":
+        return search_by_director(q, sort_by)
+    else:
+        return {"error": "Tipo di ricerca non valido"}
 
 def search_by_title(title: str):
+    print(f"🎬 Titolo: {title}")
     resp = requests.get(
         "https://api.themoviedb.org/3/search/movie",
-        params={"api_key": TMDB_API_KEY, "query": title}
+        params={"api_key": TMDB_API_KEY, "query": title, "language": "it-IT"}
     ).json()
-    if not resp.get("results"):
-        return {"error": "Film non trovato"}
-    return get_by_tmdb_id(resp["results"][0]["id"])
+
+    results = sorted(resp.get("results", []), key=lambda m: m.get("vote_average", 0), reverse=True)[:15]
+    return [get_by_tmdb_id(r["id"]) for r in results if r.get("id")]
+
+def search_by_actor(name: str, sort_by="vote_average"):
+    cached = load_cache("actors", name)
+    if cached:
+        return cached
+
+    search = requests.get(
+        f"https://api.themoviedb.org/3/search/person",
+        params={"api_key": TMDB_API_KEY, "query": name}
+    ).json()
+
+    if not search.get("results"):
+        return {"error": "Attore non trovato"}
+
+    person = search["results"][0]
+    person_id = person["id"]
+    full_name = person["name"]
+
+    credits = requests.get(
+        f"https://api.themoviedb.org/3/person/{person_id}/movie_credits",
+        params={"api_key": TMDB_API_KEY, "language": "it-IT"}
+    ).json()
+
+    movies = sorted(
+        credits.get("cast", []),
+        key=lambda m: m.get(sort_by, 0),
+        reverse=True
+    )[:15]
+
+    results = [get_by_tmdb_id(m["id"]) for m in movies if m.get("id")]
+    data = {
+        "person": full_name,
+        "results": results
+    }
+    save_cache("actors", name, data)
+    return data
+
+
+def search_by_director(name: str, sort_by="vote_average"):
+    cached = load_cache("directors", name)
+    if cached:
+        return cached
+
+    search = requests.get(
+        f"https://api.themoviedb.org/3/search/person",
+        params={"api_key": TMDB_API_KEY, "query": name}
+    ).json()
+
+    if not search.get("results"):
+        return {"error": "Regista non trovato"}
+
+    person = search["results"][0]
+    person_id = person["id"]
+    full_name = person["name"]
+
+    credits = requests.get(
+        f"https://api.themoviedb.org/3/person/{person_id}/movie_credits",
+        params={"api_key": TMDB_API_KEY, "language": "it-IT"}
+    ).json()
+
+    directed = [m for m in credits.get("crew", []) if m.get("job") == "Director"]
+    movies = sorted(directed, key=lambda m: m.get(sort_by, 0), reverse=True)[:15]
+
+    results = [get_by_tmdb_id(m["id"]) for m in movies if m.get("id")]
+    data = {
+        "director": full_name,
+        "results": results
+    }
+    save_cache("directors", name, data)
+    return data
 
 def fetch_direct_links_from_tmdb(tmdb_watch_url: str) -> dict:
-    """
-    Dato il link TMDb alla pagina Watch/Providers,
-    restituisce un dict {provider_name: direct_url} estraendo tutti gli <a> con href che iniziano per '/watch'.
-    """
     headers = {"User-Agent": "Mozilla/5.0"}
     resp = requests.get(tmdb_watch_url, headers=headers, timeout=10)
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -73,13 +165,11 @@ def fetch_direct_links_from_tmdb(tmdb_watch_url: str) -> dict:
     return direct
 
 def get_by_tmdb_id(tmdb_id: int):
-    # 1. Dati principali
     tmdb_movie = requests.get(
         f"https://api.themoviedb.org/3/movie/{tmdb_id}",
         params={"api_key": TMDB_API_KEY, "language": "it-IT"}
     ).json()
 
-    # 2. Credits
     credits = requests.get(
         f"https://api.themoviedb.org/3/movie/{tmdb_id}/credits",
         params={"api_key": TMDB_API_KEY}
@@ -87,7 +177,8 @@ def get_by_tmdb_id(tmdb_id: int):
     director = next((c["name"] for c in credits.get("crew", []) if c.get("job") == "Director"), "Sconosciuto")
     cast = [c["name"] for c in credits.get("cast", [])[:3]]
 
-    # 3. Trailer YouTube
+    genres = [g["name"] for g in tmdb_movie.get("genres", [])]
+
     videos = requests.get(
         f"https://api.themoviedb.org/3/movie/{tmdb_id}/videos",
         params={"api_key": TMDB_API_KEY, "language": "it-IT"}
@@ -95,14 +186,12 @@ def get_by_tmdb_id(tmdb_id: int):
     trailer = next((v for v in videos if v.get("site") == "YouTube" and v.get("type") == "Trailer"), None)
     trailer_url = f"https://www.youtube.com/embed/{trailer['key']}" if trailer else None
 
-    # 4. Providers Italia (TMDB)
     prov_data = requests.get(
         f"https://api.themoviedb.org/3/movie/{tmdb_id}/watch/providers",
         params={"api_key": TMDB_API_KEY}
     ).json().get("results", {}).get("IT", {})
     tmdb_watch_link = prov_data.get("link")
 
-    # 5. Scraping per direct_link
     direct_map = fetch_direct_links_from_tmdb(tmdb_watch_link) if tmdb_watch_link else {}
 
     providers = []
@@ -119,6 +208,7 @@ def get_by_tmdb_id(tmdb_id: int):
     return {
         "tmdb": tmdb_movie,
         "credits": {"director": director, "cast": cast},
+        "genres": genres,
         "trailer_url": trailer_url,
         "providers": providers
     }

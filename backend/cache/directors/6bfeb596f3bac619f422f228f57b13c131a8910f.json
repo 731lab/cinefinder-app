@@ -1,0 +1,2097 @@
+{
+  "director": "Tim Burton",
+  "results": [
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/7OY9BSM5CYQiHvonQhlQiJGaEnL.jpg",
+        "belongs_to_collection": null,
+        "budget": 60000,
+        "genres": [
+          {
+            "id": 16,
+            "name": "Animazione"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
+          }
+        ],
+        "homepage": "",
+        "id": 32085,
+        "imdb_id": "tt0084868",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Vincent",
+        "overview": "Il giovane Vincent Malloy sogna di essere proprio come Vincent Price e si perde in macabre fantasticherie che infastidiscono sua madre.",
+        "popularity": 0.6048,
+        "poster_path": "/sH8CMLnuXbQv9T61mUCPHxZotDJ.jpg",
+        "production_companies": [
+          {
+            "id": 3166,
+            "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+            "name": "Walt Disney Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1982-10-01",
+        "revenue": 0,
+        "runtime": 6,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Vincent",
+        "video": false,
+        "vote_average": 7.869,
+        "vote_count": 875
+      },
+      "credits": {
+        "director": "Tim Burton",
+        "cast": [
+          "Vincent Price"
+        ]
+      },
+      "genres": [
+        "Animazione",
+        "Fantasy"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/bLqUd0tBvKezDr9MEla7k34i3rp.jpg",
+        "belongs_to_collection": null,
+        "budget": 70000000,
+        "genres": [
+          {
+            "id": 12,
+            "name": "Avventura"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 18,
+            "name": "Dramma"
+          }
+        ],
+        "homepage": "",
+        "id": 587,
+        "imdb_id": "tt0319061",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Big Fish",
+        "overview": "Edward Bloom crede che un uomo, a furia di raccontare delle storie, diventi lui stesso quelle storie. Infatti è solito narrare, fra lo stupore di chi lo circonda, storie fantastiche e assurde riguardanti la sua vita: dall'incontro con un uomo alto 5 metri, a quello con una strega con un occhio di vetro capace di mostrare alle persone che vi guardano dentro il momento della propria morte. Suo figlio William, però, non apprezza questa sua presunta mancanza di serietà e per questo con il tempo si allontana da suo padre. Quando Edward si ammala gravemente Will intraprende un personale viaggio alla scoperta della vita del padre che lo porterà a scoprire il gusto del racconto e che le storie raccontate dal padre hanno più verità di quanta se ne potesse immaginare!",
+        "popularity": 5.3309,
+        "poster_path": "/5xVQarJsbYJ8MmoogwbVfnPjqcq.jpg",
+        "production_companies": [
+          {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 80,
+            "logo_path": "/i6B0AIrUESLt5Fm6MOPXmuPhsvA.png",
+            "name": "The Zanuck Company",
+            "origin_country": "US"
+          },
+          {
+            "id": 2721,
+            "logo_path": null,
+            "name": "Jinks/Cohen Company",
+            "origin_country": "US"
+          },
+          {
+            "id": 8601,
+            "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+            "name": "Tim Burton Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2003-12-25",
+        "revenue": 123200000,
+        "runtime": 125,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Big Fish - Le storie di una vita incredibile",
+        "video": false,
+        "vote_average": 7.757,
+        "vote_count": 7411
+      },
+      "credits": {
+        "director": "Tim Burton",
+        "cast": [
+          "Ewan McGregor",
+          "Albert Finney",
+          "Billy Crudup"
+        ]
+      },
+      "genres": [
+        "Avventura",
+        "Fantasy",
+        "Dramma"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/E1hlm1wMJ84",
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/587-big-fish/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/587-big-fish/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/587-big-fish/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/587-big-fish/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/587-big-fish/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/587-big-fish/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/587-big-fish/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/587-big-fish/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/3Nn5BOM1EVw1IYrv6MsbOS6N1Ol.jpg",
+        "belongs_to_collection": null,
+        "budget": 20000000,
+        "genres": [
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 162,
+        "imdb_id": "tt0099487",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Edward Scissorhands",
+        "overview": "La storia di Edward, un uomo creato da un inventore ma non terminato a causa della prematura morte di questi. In realtà Edward è un ragazzo come tanti altri, ma al posto delle mani ha delle forbici. Quando Peg troverà Edward e lo porterà a casa sua, inizieranno le avventure di questo uomo incredibilmente gentile.",
+        "popularity": 9.0684,
+        "poster_path": "/tYen6ZbIRE1qCQ7DsuNnqvSUH3F.jpg",
+        "production_companies": [
+          {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+          },
+          {
+            "id": 8601,
+            "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+            "name": "Tim Burton Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1990-12-07",
+        "revenue": 86024005,
+        "runtime": 105,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "La storia di un uomo insolitamente gentile.",
+        "title": "Edward mani di forbice",
+        "video": false,
+        "vote_average": 7.718,
+        "vote_count": 13243
+      },
+      "credits": {
+        "director": "Tim Burton",
+        "cast": [
+          "Johnny Depp",
+          "Winona Ryder",
+          "Dianne Wiest"
+        ]
+      },
+      "genres": [
+        "Fantasy",
+        "Dramma",
+        "Romance"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/YEKjNy7f7Tw",
+      "providers": [
+        {
+          "name": "Disney Plus",
+          "type": "flatrate",
+          "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/162-edward-scissorhands/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/162-edward-scissorhands/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/162-edward-scissorhands/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/162-edward-scissorhands/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/162-edward-scissorhands/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/162-edward-scissorhands/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/162-edward-scissorhands/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/162-edward-scissorhands/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/162-edward-scissorhands/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
+        "belongs_to_collection": null,
+        "budget": 40000000,
+        "genres": [
+          {
+            "id": 10749,
+            "name": "Romance"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 16,
+            "name": "Animazione"
+          }
+        ],
+        "homepage": "",
+        "id": 3933,
+        "imdb_id": "tt0121164",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Corpse Bride",
+        "overview": "Victor sta per prendere in moglie la sua fidanzata Victoria quando, durante il tragitto verso il luogo del matrimonio, si ferma in un bosco per riposare. Dal terreno spunta fuori qualcosa a forma di dito e, per scherzo, Victor ci infila l'anello pronunciando i voti nuziali. Il dito si anima e il cadavere sepolto di una ragazza uccisa torna in vita dichiarando di essere ora ufficialmente sposata con Victor.",
+        "popularity": 15.9755,
+        "poster_path": "/hs8i1Vpwrx6KBd00louOTP61Dp8.jpg",
+        "production_companies": [
+          {
+            "id": 8601,
+            "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+            "name": "Tim Burton Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 11537,
+            "logo_path": "/AgCkAk8EpUG9fTmK6mWcaJA2Zwh.png",
+            "name": "LAIKA",
+            "origin_country": "US"
+          },
+          {
+            "id": 57751,
+            "logo_path": null,
+            "name": "Patalex Productions",
+            "origin_country": "GB"
+          },
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 1515,
+            "logo_path": "/bU7G4LZfEk9SxlnlU7uUdRgOmja.png",
+            "name": "Will Vinton Studios",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2005-09-12",
+        "revenue": 118133252,
+        "runtime": 77,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "C'è stato un lugubre equivoco.",
+        "title": "La sposa cadavere",
+        "video": false,
+        "vote_average": 7.581,
+        "vote_count": 9613
+      },
+      "credits": {
+        "director": "Mike Johnson",
+        "cast": [
+          "Johnny Depp",
+          "Helena Bonham Carter",
+          "Emily Watson"
+        ]
+      },
+      "genres": [
+        "Romance",
+        "Fantasy",
+        "Animazione"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/gB3vP_HY59Q",
+      "providers": [
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3933-corpse-bride/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3933-corpse-bride/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3933-corpse-bride/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3933-corpse-bride/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3933-corpse-bride/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3933-corpse-bride/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3933-corpse-bride/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3933-corpse-bride/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3933-corpse-bride/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3933-corpse-bride/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3933-corpse-bride/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3933-corpse-bride/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/nDEO6ZlXYvBZpX7Wxq1eIJz5ri4.jpg",
+        "belongs_to_collection": null,
+        "budget": 18000000,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Commedia"
+          },
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 36,
+            "name": "Storia"
+          }
+        ],
+        "homepage": "",
+        "id": 522,
+        "imdb_id": "tt0109707",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Ed Wood",
+        "overview": "Giunto dalla natia Pennsylvania, negli anni '50, a Los Angeles, il giovane Edward D. Wood Jr. è reduce dall'insuccesso teatrale del suo lavoro \"The Casual Company\". Determinante è l'incontro col suo idolo Bela Lugosi. Questi, personificazione del mito di Dracula, è disoccupato da 4 anni, vive del sussidio di disoccupazione, è da tempo alcolizzato e morfinomane, ma Ed riversa su di lui tutto l'affetto e l'ammirazione che ha in sé.",
+        "popularity": 1.6136,
+        "poster_path": "/2jjFN4BtTSz01J3ZD4iYjf26pWX.jpg",
+        "production_companies": [
+          {
+            "id": 9195,
+            "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+            "name": "Touchstone Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 8601,
+            "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+            "name": "Tim Burton Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 813,
+            "logo_path": null,
+            "name": "Di Novi Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1994-09-28",
+        "revenue": 5900000,
+        "runtime": 127,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Quando si trattava di fare brutti film, Ed Wood era il migliore.",
+        "title": "Ed Wood",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2392
+      },
+      "credits": {
+        "director": "Tim Burton",
+        "cast": [
+          "Johnny Depp",
+          "Martin Landau",
+          "Sarah Jessica Parker"
+        ]
+      },
+      "genres": [
+        "Commedia",
+        "Dramma",
+        "Storia"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/teom9RDDBZY",
+      "providers": [
+        {
+          "name": "Disney Plus",
+          "type": "flatrate",
+          "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/522-ed-wood/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [],
+        "homepage": "",
+        "id": 126446,
+        "imdb_id": "tt0913955",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Cinema16: American Short Films",
+        "overview": "",
+        "popularity": 0.1259,
+        "poster_path": "/3cauTX7wunmmkOFMVETe56P7VBU.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2006-06-05",
+        "revenue": 0,
+        "runtime": 209,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Cinema16: American Short Films",
+        "video": true,
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      "credits": {
+        "director": "Mike Mills",
+        "cast": []
+      },
+      "genres": [],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+        "belongs_to_collection": {
+          "id": 945475,
+          "name": "Beetlejuice - Collezione",
+          "poster_path": "/ilsvBAZHOp91z8J7QVjedr0EokL.jpg",
+          "backdrop_path": "/fosuzKaLA43tcW9gzmW5Tc354hf.jpg"
+        },
+        "budget": 15000000,
+        "genres": [
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 35,
+            "name": "Commedia"
+          }
+        ],
+        "homepage": "",
+        "id": 4011,
+        "imdb_id": "tt0094721",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Beetlejuice",
+        "overview": "Una coppia di felici coniugi fantasmi è alle prese con una famiglia di chiassosi e petulanti snob che hanno occupato la loro casa. Uno dei più divertenti e spiritosi film del filone dei fantasmi. Cocktail riuscito di effetti speciali, trovate comiche, espressionismo e pop art.",
+        "popularity": 8.8976,
+        "poster_path": "/bXps7jVf2k8SE3GP2EyYLExGimM.jpg",
+        "production_companies": [
+          {
+            "id": 360,
+            "logo_path": "/7j0Z7TEW0YQyL4W1dcigaE44OfV.png",
+            "name": "Geffen Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1988-03-30",
+        "revenue": 84554197,
+        "runtime": 92,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Fantasma spassoso, gioioso e vizioso",
+        "title": "Beetlejuice - Spiritello porcello",
+        "video": false,
+        "vote_average": 7.372,
+        "vote_count": 7997
+      },
+      "credits": {
+        "director": "Tim Burton",
+        "cast": [
+          "Alec Baldwin",
+          "Geena Davis",
+          "Winona Ryder"
+        ]
+      },
+      "genres": [
+        "Fantasy",
+        "Commedia"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/QPPv6H7eldw",
+      "providers": [
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4011-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4011-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4011-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4011-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4011-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4011-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4011-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4011-beetlejuice/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/AuUAB6bHEltolSvbBslfNSgsRIm.jpg",
+        "belongs_to_collection": {
+          "id": 120794,
+          "name": "Batman - Collezione",
+          "poster_path": "/31SwN5tZuJNsWTLx6DNNyQSAXdx.jpg",
+          "backdrop_path": "/4UHZWw5lV3ZoadTjXuVOakdH32L.jpg"
+        },
+        "budget": 35000000,
+        "genres": [
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 28,
+            "name": "Azione"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "",
+        "id": 268,
+        "imdb_id": "tt0096895",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Batman",
+        "overview": "Nella città di Gotham City, l'eccentrico playboy milionario Bruce Wayne conduce una doppia esistenza: di giorno è un filantropo impegnato in cause benefiche, mentre di notte diventa Batman, un giustiziere mascherato da pipistrello che si batte contro il crimine. Il destino della città cambierà quando, nel corso di una sparatoria con la polizia, il malvagio Jack Napier, braccio destro di un boss della malavita, precipita in una vasca d'acido e si tramuta nel terribile Joker. Nel frattempo Vicky Vale, stimata cronista trasferitasi a Gotham, cerca di scoprire di più sul Cavaliere Oscuro, non sapendo di essere entrata nel mirino del Joker.",
+        "popularity": 7.6561,
+        "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 67889,
+            "logo_path": "/rgEZCUJeQFyVyOdXdSLSa9BsEq4.png",
+            "name": "Polygram Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 276,
+            "logo_path": null,
+            "name": "The Guber-Peters Company",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1989-06-21",
+        "revenue": 411348924,
+        "runtime": 126,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Hai mai danzato col diavolo nel pallido plenilunio?",
+        "title": "Batman",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 8141
+      },
+      "credits": {
+        "director": "Tim Burton",
+        "cast": [
+          "Jack Nicholson",
+          "Michael Keaton",
+          "Kim Basinger"
+        ]
+      },
+      "genres": [
+        "Fantasy",
+        "Azione",
+        "Crime"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Netflix",
+          "type": "flatrate",
+          "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        },
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "type": "flatrate",
+          "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/268-batman/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/npFK2ywM4Bs96768eLeNLBmKktb.jpg",
+        "belongs_to_collection": null,
+        "budget": 100000000,
+        "genres": [
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 9648,
+            "name": "Mistero"
+          },
+          {
+            "id": 27,
+            "name": "Horror"
+          }
+        ],
+        "homepage": "",
+        "id": 2668,
+        "imdb_id": "tt0162661",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Sleepy Hollow",
+        "overview": "1799, il poliziotto Ichabod Crane viene inviato nel piccolo paese di Sleepy Hollow per indagare su una serie di omicidi commessi da un presunto cavaliere senza testa.",
+        "popularity": 6.4159,
+        "poster_path": "/5KkmPSGnZvynFJL1dPculX2KcR4.jpg",
+        "production_companies": [
+          {
+            "id": 4,
+            "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+            "name": "Paramount Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 551,
+            "logo_path": "/jSlzEZZ4Z1g7B2UExjZEIKsUvD9.png",
+            "name": "Mandalay Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 70,
+            "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+            "name": "American Zoetrope",
+            "origin_country": "US"
+          },
+          {
+            "id": 23310,
+            "logo_path": null,
+            "name": "Karol Film Productions",
+            "origin_country": ""
+          },
+          {
+            "id": 258,
+            "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+            "name": "Scott Rudin Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 8601,
+            "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+            "name": "Tim Burton Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1999-11-19",
+        "revenue": 206071526,
+        "runtime": 111,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Puoi sbarrare le porte, puoi sprangare le finestre, ma non potrai sopravvivere al cavaliere senza testa",
+        "title": "Il mistero di Sleepy Hollow",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 7004
+      },
+      "credits": {
+        "director": "Tim Burton",
+        "cast": [
+          "Johnny Depp",
+          "Christina Ricci",
+          "Miranda Richardson"
+        ]
+      },
+      "genres": [
+        "Fantasy",
+        "Thriller",
+        "Mistero",
+        "Horror"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/L1zdo-BSM34",
+      "providers": [
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2668-sleepy-hollow/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2668-sleepy-hollow/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2668-sleepy-hollow/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2668-sleepy-hollow/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2668-sleepy-hollow/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2668-sleepy-hollow/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+        "belongs_to_collection": null,
+        "budget": 50000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 27,
+            "name": "Horror"
+          }
+        ],
+        "homepage": "",
+        "id": 13885,
+        "imdb_id": "tt0408236",
+        "origin_country": [
+          "GB",
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "overview": "Benjamin Barker, accusato ingiustamente di omicidio, viene allontanato dalla moglie e dalla figlia e rinchiuso in prigione. Quando riesce a tornare Londra, vuole a tutti i costi saziare la sua sete di vendetta contro le persone che sono state ingiuste nei suoi confronti, non tanto per la pena che ha dovuto scontare, ma per la sorte che é toccata alla moglie e la figlia.",
+        "popularity": 3.6991,
+        "poster_path": "/fESl9b39ljr7121yiWgtQKwH7KY.jpg",
+        "production_companies": [
+          {
+            "id": 7,
+            "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+            "name": "DreamWorks Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 11084,
+            "logo_path": null,
+            "name": "Parkes/MacDonald Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 80,
+            "logo_path": "/i6B0AIrUESLt5Fm6MOPXmuPhsvA.png",
+            "name": "The Zanuck Company",
+            "origin_country": "US"
+          },
+          {
+            "id": 98660,
+            "logo_path": null,
+            "name": "Dombey Street Productions",
+            "origin_country": "GB"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2007-12-20",
+        "revenue": 152000000,
+        "runtime": 117,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Sweeney Todd - Il diabolico barbiere di Fleet Street",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 6043
+      },
+      "credits": {
+        "director": "Tim Burton",
+        "cast": [
+          "Johnny Depp",
+          "Helena Bonham Carter",
+          "Alan Rickman"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Horror"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/VHMq9P4pwRI",
+      "providers": [
+        {
+          "name": "Netflix",
+          "type": "flatrate",
+          "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/13885-sweeney-todd-the-demon-barber-of-fleet-street/watch?locale=IT"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "type": "flatrate",
+          "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/13885-sweeney-todd-the-demon-barber-of-fleet-street/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/13885-sweeney-todd-the-demon-barber-of-fleet-street/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/13885-sweeney-todd-the-demon-barber-of-fleet-street/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/13885-sweeney-todd-the-demon-barber-of-fleet-street/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/13885-sweeney-todd-the-demon-barber-of-fleet-street/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/13885-sweeney-todd-the-demon-barber-of-fleet-street/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/13885-sweeney-todd-the-demon-barber-of-fleet-street/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/13885-sweeney-todd-the-demon-barber-of-fleet-street/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/13885-sweeney-todd-the-demon-barber-of-fleet-street/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/13885-sweeney-todd-the-demon-barber-of-fleet-street/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/13885-sweeney-todd-the-demon-barber-of-fleet-street/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/bSvUW4JQ6g4QiKvwejcfcPRd4Ke.jpg",
+        "belongs_to_collection": null,
+        "budget": 150000000,
+        "genres": [
+          {
+            "id": 12,
+            "name": "Avventura"
+          },
+          {
+            "id": 35,
+            "name": "Commedia"
+          },
+          {
+            "id": 10751,
+            "name": "Famiglia"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
+          }
+        ],
+        "homepage": "http://wwws.warnerbros.it/movies/chocolatefactory/home.html",
+        "id": 118,
+        "imdb_id": "tt0367594",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Charlie and the Chocolate Factory",
+        "overview": "Charlie Bucket, proviene da una famiglia povera, e spende la maggior parte del suo tempo a sognare la cioccolata che adora, ma che di rado può permettersela. La sua vita cambia quando Willy Wonka, proprietario di una famosissima fabbrica di cioccolato, mette in palio cinque biglietti, nascosti in cinque barrette di cioccolato. I bambini che troveranno uno di questi biglietti potranno fare un tour nella fantastica fabbrica di cioccolato. Charlie trova miracolosamente un biglietto vincente...",
+        "popularity": 12.9868,
+        "poster_path": "/wJpxhrU5G0HwYPkc5H9yM4sReue.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 79,
+            "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+            "name": "Village Roadshow Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 80,
+            "logo_path": "/i6B0AIrUESLt5Fm6MOPXmuPhsvA.png",
+            "name": "The Zanuck Company",
+            "origin_country": "US"
+          },
+          {
+            "id": 81,
+            "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+            "name": "Plan B Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 55512,
+            "logo_path": null,
+            "name": "Theobald Film Productions",
+            "origin_country": "GB"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2005-07-13",
+        "revenue": 475000000,
+        "runtime": 106,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Preparatevi ad assaggiare l'avventura",
+        "title": "La fabbrica di cioccolato",
+        "video": false,
+        "vote_average": 7.042,
+        "vote_count": 15557
+      },
+      "credits": {
+        "director": "Tim Burton",
+        "cast": [
+          "Johnny Depp",
+          "Freddie Highmore",
+          "David Kelly"
+        ]
+      },
+      "genres": [
+        "Avventura",
+        "Commedia",
+        "Famiglia",
+        "Fantasy"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/2CA9C3QDkEo",
+      "providers": [
+        {
+          "name": "Netflix",
+          "type": "flatrate",
+          "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        },
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "type": "flatrate",
+          "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/yfTZ2MSRWc06cBrFOsAF4Lebi4.jpg",
+        "belongs_to_collection": null,
+        "budget": 39000000,
+        "genres": [
+          {
+            "id": 16,
+            "name": "Animazione"
+          },
+          {
+            "id": 35,
+            "name": "Commedia"
+          },
+          {
+            "id": 10751,
+            "name": "Famiglia"
+          }
+        ],
+        "homepage": "",
+        "id": 62214,
+        "imdb_id": "tt1142977",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Frankenweenie",
+        "overview": "Dopo aver inaspettatamente perso il suo adorato cane Sparky, il giovane Victor sfrutta il potere della scienza per riportare in vita il suo amico, con qualche lieve variazione. Prova a nascondere la sua creazione cucita-in-casa, ma quando Sparky esce i compagni di scuola di Victor, gli insegnanti e l’intera città scoprono che “tenere al guinzaglio una nuova vita” può essere mostruoso.",
+        "popularity": 3.7664,
+        "poster_path": "/njbbeB4OrgVWABGLNf64WKpVBIJ.jpg",
+        "production_companies": [
+          {
+            "id": 8601,
+            "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+            "name": "Tim Burton Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2012-10-04",
+        "revenue": 81493846,
+        "runtime": 87,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "L'elettrizzante cane tornato dalla tomba.",
+        "title": "Frankenweenie",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3438
+      },
+      "credits": {
+        "director": "Tim Burton",
+        "cast": [
+          "Catherine O'Hara",
+          "Martin Short",
+          "Martin Landau"
+        ]
+      },
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Famiglia"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/hjYhmGWslJo",
+      "providers": [
+        {
+          "name": "Disney Plus",
+          "type": "flatrate",
+          "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62214-frankenweenie/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62214-frankenweenie/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62214-frankenweenie/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62214-frankenweenie/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62214-frankenweenie/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62214-frankenweenie/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62214-frankenweenie/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62214-frankenweenie/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62214-frankenweenie/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/xi1VSt3DtkevUmzCx2mNlCoDe74.jpg",
+        "belongs_to_collection": {
+          "id": 945475,
+          "name": "Beetlejuice - Collezione",
+          "poster_path": "/ilsvBAZHOp91z8J7QVjedr0EokL.jpg",
+          "backdrop_path": "/fosuzKaLA43tcW9gzmW5Tc354hf.jpg"
+        },
+        "budget": 99000000,
+        "genres": [
+          {
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "id": 35,
+            "name": "Commedia"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
+          }
+        ],
+        "homepage": "https://www.beetlejuicemovie.net/",
+        "id": 917496,
+        "imdb_id": "tt2049403",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Beetlejuice Beetlejuice",
+        "overview": "Beetlejuice è tornato! Dopo un'inaspettata tragedia familiare, tre generazioni della famiglia Deetz tornano a casa a Winter River. Ancora perseguitata da Beetlejuice, la vita di Lydia viene sconvolta quando la figlia adolescente e ribelle, Astrid, scopre il misterioso modellino della città in soffitta e il portale per l'Aldilà viene accidentalmente aperto. Con i problemi che stanno nascendo in entrambi i regni, è solo questione di tempo prima che qualcuno pronunci tre volte il nome di Beetlejuice e il demone dispettoso torni nuovamente per scatenare il suo caos.",
+        "popularity": 10.918,
+        "poster_path": "/ocQEcmgboVNXuZRwe923pjglnk8.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 360,
+            "logo_path": "/7j0Z7TEW0YQyL4W1dcigaE44OfV.png",
+            "name": "Geffen Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 81,
+            "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+            "name": "Plan B Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 8601,
+            "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+            "name": "Tim Burton Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 228708,
+            "logo_path": null,
+            "name": "Tommy Harper Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 216687,
+            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+            "name": "Domain Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2024-09-04",
+        "revenue": 451900435,
+        "runtime": 105,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Il fantasma con più carisma è tornato",
+        "title": "Beetlejuice Beetlejuice",
+        "video": false,
+        "vote_average": 7.001,
+        "vote_count": 2662
+      },
+      "credits": {
+        "director": "Tim Burton",
+        "cast": [
+          "Michael Keaton",
+          "Winona Ryder",
+          "Catherine O'Hara"
+        ]
+      },
+      "genres": [
+        "Horror",
+        "Commedia",
+        "Fantasy"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/0lJZROFLuH8",
+      "providers": [
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/917496-beetlejuice-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/917496-beetlejuice-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/917496-beetlejuice-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/917496-beetlejuice-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/917496-beetlejuice-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/917496-beetlejuice-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/917496-beetlejuice-beetlejuice/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/917496-beetlejuice-beetlejuice/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/zJeYB7rX1kg5kVmzB0kxbvxmYOl.jpg",
+        "belongs_to_collection": null,
+        "budget": 10000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          }
+        ],
+        "homepage": "",
+        "id": 87093,
+        "imdb_id": "tt1126590",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Big Eyes",
+        "overview": "la vera storia di Margaret Keane (Amy Adams) e di suo marito Walter (Christoph Waltz), i cui dipinti dei bambini dai grandi occhi divennero un vero e proprio fenomeno negli Stati Uniti tra il 1960 e il 1970. La mano d’artista era di Margaret, ma Walter fece credere al mondo di essere il vero autore dei quadri, conquistando una fama internazionale del tutto immeritata. I due finirono con il divorziare, arrivando ad una battaglia legale senza precedenti: un duello a colpi di pennello per ristabilire la giusta paternità delle opere.",
+        "popularity": 1.3899,
+        "poster_path": "/203HAjJcLMl7xThcTqZx4zmEGcV.jpg",
+        "production_companies": [
+          {
+            "id": 308,
+            "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+            "name": "The Weinstein Company",
+            "origin_country": "US"
+          },
+          {
+            "id": 2293,
+            "logo_path": null,
+            "name": "Silverwood Films",
+            "origin_country": "US"
+          },
+          {
+            "id": 8600,
+            "logo_path": null,
+            "name": "Electric City Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 8601,
+            "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+            "name": "Tim Burton Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2014-12-24",
+        "revenue": 28900000,
+        "runtime": 106,
+        "spoken_languages": [
+          {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Lei l'ha creato, L'ha venduto e l'ha acquistato.",
+        "title": "Big Eyes",
+        "video": false,
+        "vote_average": 6.979,
+        "vote_count": 3525
+      },
+      "credits": {
+        "director": "Tim Burton",
+        "cast": [
+          "Amy Adams",
+          "Christoph Waltz",
+          "Danny Huston"
+        ]
+      },
+      "genres": [
+        "Dramma"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/_n8OwiSUVzM",
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/87093-big-eyes/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/87093-big-eyes/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/87093-big-eyes/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/87093-big-eyes/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/87093-big-eyes/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/87093-big-eyes/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/7x4SNxO5HWArighxxFeet5sn3il.jpg",
+        "belongs_to_collection": {
+          "id": 120794,
+          "name": "Batman - Collezione",
+          "poster_path": "/31SwN5tZuJNsWTLx6DNNyQSAXdx.jpg",
+          "backdrop_path": "/4UHZWw5lV3ZoadTjXuVOakdH32L.jpg"
+        },
+        "budget": 80000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Azione"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
+          }
+        ],
+        "homepage": "",
+        "id": 364,
+        "imdb_id": "tt0103776",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Batman Returns",
+        "overview": "A Gotham City il giovane miliardario Bruce Wayne è il misterioso Batman, che agisce contro i malfattori. La sua identità è nota solo al fedele ed anziano domestico Alfred con il quale vive in un palazzo-fortezza nei cui sotterranei si trovano numerosi e strani armamenti tra cui la Batmobile, l'automobile blindata capace di orientarsi in qualunque posizione per affrontare il \"Kiddle Ride\", il mostruoso veicolo di Oswald Cobblepot, il Pinguino, un essere deforme mezzo uomo e mezzo animale che, dopo aver vissuto nelle luride acque del sottosuolo di Gotham, ha deciso di emergere per candidarsi a sindaco con l'aiuto dell'amorale miliardario Max Shreck, l'assassino di Selina Kyle. Costei, donna mite e gentile, in seguito alla propria morte è stata trasformata, ad opera di alcuni gatti, nella seducente ma perfida Catwoman, amica-nemica acerrima di Batman. Questi, ingaggiando una lotta serrata contro i suoi astuti avversari, dopo alterne vicende riesce a sconfiggerli.",
+        "popularity": 6.1799,
+        "poster_path": "/p51pOXTRzBF77O2VcgD9ZuefF6h.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 67889,
+            "logo_path": "/rgEZCUJeQFyVyOdXdSLSa9BsEq4.png",
+            "name": "Polygram Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1992-06-19",
+        "revenue": 280000000,
+        "runtime": 126,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Il pipistrello, il gatto, il pinguino.",
+        "title": "Batman - Il ritorno",
+        "video": false,
+        "vote_average": 6.939,
+        "vote_count": 6743
+      },
+      "credits": {
+        "director": "Tim Burton",
+        "cast": [
+          "Michael Keaton",
+          "Danny DeVito",
+          "Michelle Pfeiffer"
+        ]
+      },
+      "genres": [
+        "Azione",
+        "Fantasy"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/Ma1RlZq3pzg",
+      "providers": [
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/364-batman-returns/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/364-batman-returns/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/364-batman-returns/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/364-batman-returns/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/364-batman-returns/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/364-batman-returns/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/364-batman-returns/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/364-batman-returns/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/364-batman-returns/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/364-batman-returns/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/364-batman-returns/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/364-batman-returns/watch?locale=IT"
+        }
+      ]
+    }
+  ]
+}

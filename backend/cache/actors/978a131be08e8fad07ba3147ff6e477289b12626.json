@@ -1,0 +1,1835 @@
+{
+  "person": "Christian Bale",
+  "results": [
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 789323,
+        "imdb_id": null,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Heath Ledger: A Tribute",
+        "overview": "",
+        "popularity": 1.0062,
+        "poster_path": "/x1eJojaMe9N0y0qg5yRRWEjYJxa.jpg",
+        "production_companies": [
+          {
+            "id": 166965,
+            "logo_path": null,
+            "name": "World Wide Entertainment",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2009-06-01",
+        "revenue": 0,
+        "runtime": 47,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Heath Ledger: A Tribute",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 2
+      },
+      "credits": {
+        "director": "Chip Taylor",
+        "cast": [
+          "Peter Kent",
+          "Michelle Williams",
+          "Aaron Eckhart"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/789323-heath-ledger-a-tribute/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/789323-heath-ledger-a-tribute/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 703398,
+        "imdb_id": "tt1035445",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Director's Notebook: The Cinematic Sleight of Hand of Christopher Nolan",
+        "overview": "",
+        "popularity": 0.8165,
+        "poster_path": "/pW9rYNpkrtlLL7rkiI6Dj7b2erE.jpg",
+        "production_companies": [
+          {
+            "id": 11200,
+            "logo_path": "/91DFuURub2fYqduG34njd0cUvWj.png",
+            "name": "Buena Vista Home Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 55055,
+            "logo_path": null,
+            "name": "Three Legged Cat Productions",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2007-02-20",
+        "revenue": 0,
+        "runtime": 20,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Director's Notebook: The Cinematic Sleight of Hand of Christopher Nolan",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 7
+      },
+      "credits": {
+        "director": "Mark Rance",
+        "cast": [
+          "Christopher Nolan",
+          "Hugh Jackman",
+          "Rebecca Hall"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/jV6ibS2TTZcC7UbqNKsBwTRfgvl.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Commedia"
+          },
+          {
+            "id": 27,
+            "name": "Horror"
+          }
+        ],
+        "homepage": "",
+        "id": 413525,
+        "imdb_id": "tt0478982",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Blood Drips Heavily on Newsie Square",
+        "overview": "",
+        "popularity": 0.1594,
+        "poster_path": "/yCMwm7CzBsksJOev7hvLAonlqsy.jpg",
+        "production_companies": [],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1991-01-01",
+        "revenue": 0,
+        "runtime": 27,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Blood Drips Heavily on Newsie Square",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 5
+      },
+      "credits": {
+        "director": "Michael A. Goorjian",
+        "cast": [
+          "Mark David",
+          "Marty Belafsky",
+          "Max Casella"
+        ]
+      },
+      "genres": [
+        "Commedia",
+        "Horror"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/enNubozHn9pXi0ycTVYUWfpHZm.jpg",
+        "belongs_to_collection": {
+          "id": 263,
+          "name": "Batman - Il cavaliere oscuro - Collezione",
+          "poster_path": "/u5FKYeJEcifZXylvl30kKoZgzOO.jpg",
+          "backdrop_path": "/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg"
+        },
+        "budget": 185000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 28,
+            "name": "Azione"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "https://www.warnerbros.it/scheda-film/genere-eroisupereroi/il-cavaliere-oscuro/",
+        "id": 155,
+        "imdb_id": "tt0468569",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Dark Knight",
+        "overview": "Il crimine organizzato a Gotham City ha le ore contate. Batman, il tenente Gordon, il nuovo Procuratore Distrettuale e alcuni improbabili epigoni dell'Uomo Pipistrello in imbottiture da hockey hanno dichiarato guerra ai criminali. La loro fortuna e i loro dollari, accumulati in una banca di massima sicurezza, vengono rubati da Joker, un pagliaccio sadico e mascherato che getterà la città nel disordine e nell'anarchia. Riempite le tasche di lame, polvere da sparo e lanugine, Joker sfiderà il cavaliere oscuro di Bruce Wayne e rivelerà il lato oscuro di Harvey Dent, l'eroe procuratore che applica la giustizia e agisce a volto scoperto.",
+        "popularity": 28.8735,
+        "poster_path": "/1hWiGdsoG7p1Dyckcnwiobenu1g.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 9996,
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "origin_country": "GB"
+          },
+          {
+            "id": 429,
+            "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+            "name": "DC",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2008-07-16",
+        "revenue": 1004558444,
+        "runtime": 146,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Benvenuti in un mondo senza regole.",
+        "title": "Il cavaliere oscuro",
+        "video": false,
+        "vote_average": 8.522,
+        "vote_count": 34144
+      },
+      "credits": {
+        "director": "Christopher Nolan",
+        "cast": [
+          "Christian Bale",
+          "Heath Ledger",
+          "Aaron Eckhart"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Azione",
+        "Crime",
+        "Thriller"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/dfwuVmue_3E",
+      "providers": [
+        {
+          "name": "Netflix",
+          "type": "flatrate",
+          "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video",
+          "type": "flatrate",
+          "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "type": "flatrate",
+          "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "type": "flatrate",
+          "logo_path": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/iy0jjuuPFGoU8Jgrxm7wBL4Ekyj.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 829707,
+        "imdb_id": "tt16191198",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Catwoman: The Feline Femme Fatale",
+        "overview": "",
+        "popularity": 0.4843,
+        "poster_path": "/ord8gdBUFitBHccX1S5RpatulA7.jpg",
+        "production_companies": [
+          {
+            "id": 86008,
+            "logo_path": null,
+            "name": "Rivendell Films",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2021-05-05",
+        "revenue": 0,
+        "runtime": 40,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Catwoman: The Feline Femme Fatale",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 13
+      },
+      "credits": {
+        "director": "Constantine Nasr",
+        "cast": [
+          "Tara Strong",
+          "Michelle Pfeiffer",
+          "Anne Hathaway"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
+        "belongs_to_collection": null,
+        "budget": 40000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 9648,
+            "name": "Mistero"
+          },
+          {
+            "id": 878,
+            "name": "Fantascienza"
+          }
+        ],
+        "homepage": "http://www.warnerbros.it/scheda-film/genere-thriller/prestige",
+        "id": 1124,
+        "imdb_id": "tt0482571",
+        "origin_country": [
+          "US",
+          "GB"
+        ],
+        "original_language": "en",
+        "original_title": "The Prestige",
+        "overview": "Due giovani maghi apprendisti, Robert Angier e Alfred Borden, vengono istruiti e seguiti da Cutter, un ingegnere illusionista ed ex mago, ma durante un numero in cui una donna viene legata e messa in una cassa di vetro piena d'acqua, qualcosa va storto e Angier incolperà l'amico dell'accaduto, tentando di vendicarsi. Inizia così un crudele gioco tra i due uomini su chi sia il migliore e la rivalità si trasformerà pian piano in ossessione.",
+        "popularity": 14.2655,
+        "poster_path": "/xKsiJimxRa44FArhlfGHnylrT0i.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 9195,
+            "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+            "name": "Touchstone Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 28,
+            "logo_path": "/7tRG0ZsmtptmzPMKupd1FZkjtnn.png",
+            "name": "Newmarket Films",
+            "origin_country": "US"
+          },
+          {
+            "id": 9996,
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "origin_country": "GB"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2006-10-17",
+        "revenue": 109676311,
+        "runtime": 130,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Stai guardando attentamente?",
+        "title": "The Prestige",
+        "video": false,
+        "vote_average": 8.204,
+        "vote_count": 16668
+      },
+      "credits": {
+        "director": "Christopher Nolan",
+        "cast": [
+          "Hugh Jackman",
+          "Christian Bale",
+          "Michael Caine"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Mistero",
+        "Fantascienza"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/R0EX7pO8w50",
+      "providers": [
+        {
+          "name": "Netflix",
+          "type": "flatrate",
+          "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        },
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "type": "flatrate",
+          "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1124-the-prestige/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/2sqEIKxlpYwoX5L84Zxbu6QRyv1.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 734586,
+        "imdb_id": "tt12920708",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Joker: Put on a Happy Face",
+        "overview": "",
+        "popularity": 0.4216,
+        "poster_path": "/am5Sst8LFmU0bhPrzU3km4RRy3J.jpg",
+        "production_companies": [
+          {
+            "id": 120268,
+            "logo_path": "/iv31nXw6IoA4ydUYVIHSYP4RL2T.png",
+            "name": "Narrator",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2020-08-18",
+        "revenue": 0,
+        "runtime": 36,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Joker: Put on a Happy Face",
+        "video": false,
+        "vote_average": 8.078,
+        "vote_count": 45
+      },
+      "credits": {
+        "director": "Sconosciuto",
+        "cast": [
+          "Kevin Conroy",
+          "Neal Adams",
+          "Will Arnett"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Commedia"
+          }
+        ],
+        "homepage": "",
+        "id": 165730,
+        "imdb_id": "tt0828119",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Tankman Begins",
+        "overview": "",
+        "popularity": 0.2404,
+        "poster_path": null,
+        "production_companies": [
+          {
+            "id": 6329,
+            "logo_path": "/4lZJiVHPClma8YB9hXodraFXSwi.png",
+            "name": "MTV Entertainment Studios",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2005-06-09",
+        "revenue": 0,
+        "runtime": 6,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Tankman Begins",
+        "video": false,
+        "vote_average": 8.071,
+        "vote_count": 7
+      },
+      "credits": {
+        "director": "Joel Gallen",
+        "cast": [
+          "Jimmy Fallon",
+          "Andy Dick",
+          "Jon Heder"
+        ]
+      },
+      "genres": [
+        "Commedia"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+        "belongs_to_collection": null,
+        "budget": 97600000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 28,
+            "name": "Azione"
+          },
+          {
+            "id": 36,
+            "name": "Storia"
+          }
+        ],
+        "homepage": "https://www.20thcenturystudios.com/movies/ford-v-ferrari",
+        "id": 359724,
+        "imdb_id": "tt1950186",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Ford v Ferrari",
+        "overview": "Carroll Shelby è il pilota che nel '59 ha vinto la 24 ore di Le Mans, la più ardua delle gare automobilistiche. Quando scopre di non poter più correre per una grave patologia cardiaca si dedica a progettare e vendere automobili. Con lui c'è il suo fedele amico e collaudatore Ken Miles, dotato di uno spiccato talento per la guida, ma anche di un carattere complicato. Insieme accetteranno la sfida targata Ford di sconfiggere la Ferrari e si batteranno per vincere una nuova 24 ore di Le Mans, contro tutti, a bordo di un nuovo veicolo messo a punto da loro stessi.",
+        "popularity": 10.034,
+        "poster_path": "/nKVOiiCukJsXNYPETbIWqZaBYd.jpg",
+        "production_companies": [
+          {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+          },
+          {
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 7076,
+            "logo_path": "/8BFxn9NUWSgp0ndih569Gm62xiC.png",
+            "name": "Chernin Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 138755,
+            "logo_path": null,
+            "name": "Turnpike Films",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2019-11-13",
+        "revenue": 225508210,
+        "runtime": 152,
+        "spoken_languages": [
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Le Mans '66 - La grande sfida",
+        "video": false,
+        "vote_average": 8.006,
+        "vote_count": 8404
+      },
+      "credits": {
+        "director": "James Mangold",
+        "cast": [
+          "Matt Damon",
+          "Christian Bale",
+          "Jon Bernthal"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Azione",
+        "Storia"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/NMb4RNMvVV0",
+      "providers": [
+        {
+          "name": "Disney Plus",
+          "type": "flatrate",
+          "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/359724-ford-v-ferrari/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/359724-ford-v-ferrari/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/359724-ford-v-ferrari/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/359724-ford-v-ferrari/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/359724-ford-v-ferrari/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/359724-ford-v-ferrari/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/359724-ford-v-ferrari/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/359724-ford-v-ferrari/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/359724-ford-v-ferrari/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/359724-ford-v-ferrari/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/359724-ford-v-ferrari/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 1110807,
+        "imdb_id": "tt1156320",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Making of a True Story: Rescue Dawn",
+        "overview": "",
+        "popularity": 0.0902,
+        "poster_path": "/9hzGa5ug4rVlPAyhp4FtA4VeYGy.jpg",
+        "production_companies": [
+          {
+            "id": 84425,
+            "logo_path": null,
+            "name": "Deluxe Digital Studios",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2007-11-20",
+        "revenue": 0,
+        "runtime": 53,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Making of a True Story: Rescue Dawn",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 2
+      },
+      "credits": {
+        "director": "Sconosciuto",
+        "cast": [
+          "Christian Bale",
+          "Galen Yuen",
+          "Steve Zahn"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+        "belongs_to_collection": {
+          "id": 263,
+          "name": "Batman - Il cavaliere oscuro - Collezione",
+          "poster_path": "/u5FKYeJEcifZXylvl30kKoZgzOO.jpg",
+          "backdrop_path": "/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg"
+        },
+        "budget": 250000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Azione"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 49026,
+        "imdb_id": "tt1345836",
+        "origin_country": [
+          "GB",
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Dark Knight Rises",
+        "overview": "Sono passati otto anni da quando Batman è svanito nella notte, trasformandosi in un istante da eroe a fuggitivo. Prendendosi la colpa della morte del procuratore Harvey Dent, il Cavaliere oscuro ha sacrificato tutto per ciò che lui e il Commissario Gordon speravano fosse un bene superiore. Per un po’ di tempo la bugia ha funzionato e l’attività criminale di Gotham City è stata schiacciata dal peso della legge anti-criminale Dent Act. Ma tutto cambierà con l’arrivo di un’astuta ladra con un misterioso piano. Ma molto più pericoloso è l’arrivo di Bane, un terrorista mascherato i cui spietati piani per Gotham costringono Bruce a uscire dal suo esilio auto imposto. Ma anche se indossa di nuovo il mantello e il cappuccio, Batman potrebbe non essere così forte da fermare Bane.",
+        "popularity": 18.0543,
+        "poster_path": "/p2JzxFRAlbxS4EvWMo4yiYZXu1W.jpg",
+        "production_companies": [
+          {
+            "id": 9996,
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "origin_country": "GB"
+          },
+          {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2012-07-17",
+        "revenue": 1081041287,
+        "runtime": 165,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Il fuoco divamperà",
+        "title": "Il cavaliere oscuro - Il ritorno",
+        "video": false,
+        "vote_average": 7.787,
+        "vote_count": 23388
+      },
+      "credits": {
+        "director": "Christopher Nolan",
+        "cast": [
+          "Christian Bale",
+          "Gary Oldman",
+          "Tom Hardy"
+        ]
+      },
+      "genres": [
+        "Azione",
+        "Crime",
+        "Dramma",
+        "Thriller"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/XaO9KAIEDdg",
+      "providers": [
+        {
+          "name": "Netflix",
+          "type": "flatrate",
+          "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video",
+          "type": "flatrate",
+          "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "type": "flatrate",
+          "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "type": "flatrate",
+          "logo_path": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/zYDjcLWhQWm0l3Cjdsc5jbepzHR.jpg",
+        "belongs_to_collection": {
+          "id": 263,
+          "name": "Batman - Il cavaliere oscuro - Collezione",
+          "poster_path": "/u5FKYeJEcifZXylvl30kKoZgzOO.jpg",
+          "backdrop_path": "/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg"
+        },
+        "budget": 150000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 28,
+            "name": "Azione"
+          }
+        ],
+        "homepage": "",
+        "id": 272,
+        "imdb_id": "tt0372784",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Batman Begins",
+        "overview": "Bruce Wayne, figlio di un illuminato filantropo di Gotham City, vede i suoi genitori assassinati da un rapinatore. Incapace di liberarsi del senso di colpa, inizia un vagabondaggio che lo porta fin sulle vette dell'Himalaya, dove Ra's Al Ghul e il suo fido Ducard lo iniziano alla lotta contro il male. Wayne è deciso a servire la giustizia, e una volta tornato a Gotham trova in Falcone, potente trafficante di droga, e in Crane, altrettanto corrotto psichiatra, due acerrimi nemici, dietro ai quali però pare celarsi qualcuno di ancor più potente. L'unico modo per combatterli è diventare Batman, un simbolo che dia forza e speranza alla gente.",
+        "popularity": 13.9599,
+        "poster_path": "/8E0rBGWnsNN9lUNcJGN7QMFja2O.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 429,
+            "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+            "name": "DC",
+            "origin_country": "US"
+          },
+          {
+            "id": 9996,
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "origin_country": "GB"
+          },
+          {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 19231,
+            "logo_path": null,
+            "name": "Patalex III Productions",
+            "origin_country": "GB"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2005-06-10",
+        "revenue": 374218673,
+        "runtime": 140,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Urdu",
+            "iso_639_1": "ur",
+            "name": "اردو"
+          },
+          {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Il male teme il cavaliere.",
+        "title": "Batman Begins",
+        "video": false,
+        "vote_average": 7.715,
+        "vote_count": 21638
+      },
+      "credits": {
+        "director": "Christopher Nolan",
+        "cast": [
+          "Christian Bale",
+          "Michael Caine",
+          "Liam Neeson"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Crime",
+        "Azione"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/kOrgt0Jq4YU",
+      "providers": [
+        {
+          "name": "Netflix",
+          "type": "flatrate",
+          "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video",
+          "type": "flatrate",
+          "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "type": "flatrate",
+          "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "type": "flatrate",
+          "logo_path": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/272-batman-begins/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/eJMeVqRfztpUKlFKYP7WMJf2dkk.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 1016753,
+        "imdb_id": "tt21917088",
+        "origin_country": [
+          "DE",
+          "GB"
+        ],
+        "original_language": "de",
+        "original_title": "Werner Herzog - Radikaler Träumer",
+        "overview": "",
+        "popularity": 0.3705,
+        "poster_path": "/ojTAAPyg0pzakR3AZWhR8Z4OuA9.jpg",
+        "production_companies": [
+          {
+            "id": 185202,
+            "logo_path": null,
+            "name": "RealFiction Filmverleih",
+            "origin_country": ""
+          },
+          {
+            "id": 11237,
+            "logo_path": "/nzPEges9ftjCDQWru0qrIfTX8OR.png",
+            "name": "ZDF/Arte",
+            "origin_country": "DE"
+          },
+          {
+            "id": 15181,
+            "logo_path": "/sjQmClxWfF4NmP01QJVY8e3UVYK.png",
+            "name": "Wavelength",
+            "origin_country": "US"
+          },
+          {
+            "id": 9120,
+            "logo_path": null,
+            "name": "Spring Films",
+            "origin_country": "GB"
+          },
+          {
+            "id": 186014,
+            "logo_path": null,
+            "name": "3B-Produktion",
+            "origin_country": ""
+          },
+          {
+            "id": 161593,
+            "logo_path": null,
+            "name": "Hot Docs Partners",
+            "origin_country": "CA"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+          },
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          }
+        ],
+        "release_date": "2022-10-27",
+        "revenue": 0,
+        "runtime": 90,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Werner Herzog - Radikaler Träumer",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 10
+      },
+      "credits": {
+        "director": "Thomas von Steinaecker",
+        "cast": [
+          "Werner Herzog",
+          "Nicole Kidman",
+          "Christian Bale"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "iWonder Full Amazon channel",
+          "type": "flatrate",
+          "logo_path": "/iZzlUo191ynXNpPNdcY8vvlYSf6.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1016753-werner-herzog-radikaler-traumer/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/fHM3ChEYaoAEcCCpRokQzN2DBYy.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 467062,
+        "imdb_id": "tt7133092",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Spielberg",
+        "overview": "Un documentario sulla vita e la carriera di uno dei registi più influenti di tutti i tempi, Steven Spielberg.",
+        "popularity": 1.8119,
+        "poster_path": "/2AAvIR2PHoxNITgLDOkXXlWLlua.jpg",
+        "production_companies": [
+          {
+            "id": 95929,
+            "logo_path": "/iI5Tb66SXYWlusG8Q3OhPCnaqaS.png",
+            "name": "Pentimento Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 14914,
+            "logo_path": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+            "name": "HBO Documentary Films",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2017-10-05",
+        "revenue": 0,
+        "runtime": 147,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Spielberg",
+        "video": false,
+        "vote_average": 7.564,
+        "vote_count": 295
+      },
+      "credits": {
+        "director": "Susan Lacy",
+        "cast": [
+          "Steven Spielberg",
+          "Martin Scorsese",
+          "Richard Dreyfuss"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/hokXWehieJ2mdiward3L0qnGI7r.jpg",
+        "belongs_to_collection": null,
+        "budget": 5000000,
+        "genres": [
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 18,
+            "name": "Dramma"
+          }
+        ],
+        "homepage": "",
+        "id": 4553,
+        "imdb_id": "tt0361862",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Machinist",
+        "overview": "Trevor Reznik, non riesce a dormire da un anno; il suo fisico, stremato dalla mancanza di riposo e di energie è ormai spettrale, cadaverico. Per Trevor, operaio in fabbrica, lavorare è ormai diventato un'impresa impossibile, ogni giorno più difficile. A peggiorare il tutto accade un grave incidente, causato da una sua disattenzione, che quasi costa la vita di un collega. Trevor, pallido e schivo, raggiunge un livello di alienazione dal mondo che lo trasforma lentamente in un fantasma delirante: non ha rapporti con nessuno, tanto meno con i suoi colleghi, dato che dopo l'incidente sospetta che qualcuno abbia complottato contro di lui per farlo licenziare. Le uniche due persone con le quali Trevor ha ancora un rapporto e alle quali è legato sono Stevie, una prostituta divenuta nel tempo sua confidente e Marie la cameriera del bar dell'aeroporto nel quale ogni notte inspiegabilmente Trevor si reca per bere un caffè. Verso la fine la causa della sua insonnia lentamente riaffiorerà.",
+        "popularity": 4.7748,
+        "poster_path": "/AjiSHn5CivzzPdHxtP4oqSTasv8.jpg",
+        "production_companies": [
+          {
+            "id": 7956,
+            "logo_path": null,
+            "name": "Castelao Productions",
+            "origin_country": "ES"
+          },
+          {
+            "id": 3631,
+            "logo_path": "/ttrj8O0KF5PbUoHamU2mTOLB6d9.png",
+            "name": "Filmax",
+            "origin_country": "ES"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+          }
+        ],
+        "release_date": "2004-09-24",
+        "revenue": 8203235,
+        "runtime": 102,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Se fossi più magro non esisteresti",
+        "title": "L'uomo senza sonno",
+        "video": false,
+        "vote_average": 7.526,
+        "vote_count": 5787
+      },
+      "credits": {
+        "director": "Brad Anderson",
+        "cast": [
+          "Christian Bale",
+          "Jennifer Jason Leigh",
+          "Aitana Sánchez-Gijón"
+        ]
+      },
+      "genres": [
+        "Thriller",
+        "Dramma"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/tFgK6JC0aBM",
+      "providers": [
+        {
+          "name": "Amazon Prime Video",
+          "type": "flatrate",
+          "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4553-the-machinist/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "type": "flatrate",
+          "logo_path": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4553-the-machinist/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4553-the-machinist/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4553-the-machinist/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4553-the-machinist/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4553-the-machinist/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4553-the-machinist/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4553-the-machinist/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4553-the-machinist/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4553-the-machinist/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4553-the-machinist/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/4553-the-machinist/watch?locale=IT"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2033 @@
+{
+  "director": "Stanley Kubrick",
+  "results": [
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+        "belongs_to_collection": {
+          "id": 530064,
+          "name": "Shining - Collezione",
+          "poster_path": "/iic9YD6zyz2mWIoHVaFy34N0MxX.jpg",
+          "backdrop_path": "/8L2bt7OWxrVhZPrFPkyZW4rEXzq.jpg"
+        },
+        "budget": 19000000,
+        "genres": [
+          {
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 694,
+        "imdb_id": "tt0081505",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Shining",
+        "overview": "L'aspirante scrittore Jack Torrance si trasferisce tra i monti per trovare il giusto isolamento che gli permetterà di completare il suo romanzo. L'uomo accetta quindi l'incarico di custode invernale di un enorme albergo tra le montagne, dove lo seguono la moglie e il figlioletto Danny, il quale possiede poteri paranormali che gli permettono di vedere nel passato e nel futuro.",
+        "popularity": 12.486,
+        "poster_path": "/shTUOizWjurXOl5Bp2riMvSNIbZ.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 11272,
+            "logo_path": null,
+            "name": "Peregrine",
+            "origin_country": "GB"
+          },
+          {
+            "id": 88,
+            "logo_path": null,
+            "name": "Hawk Films",
+            "origin_country": "GB"
+          },
+          {
+            "id": 734,
+            "logo_path": null,
+            "name": "The Producer Circle Co.",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1980-05-23",
+        "revenue": 44781695,
+        "runtime": 142,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "L'onda di terrore che ha spazzato l'America è qui.",
+        "title": "Shining",
+        "video": false,
+        "vote_average": 8.21,
+        "vote_count": 18066
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Jack Nicholson",
+          "Shelley Duvall",
+          "Danny Lloyd"
+        ]
+      },
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/wtXItiRx8Jk",
+      "providers": [
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+        "belongs_to_collection": {
+          "id": 4438,
+          "name": "Odissea nello spazio - Collezione",
+          "poster_path": "/5YWqk2QqZx4OuSi29Sg7EuAwuZf.jpg",
+          "backdrop_path": "/mGeBxBuhU7yx2Ga4U2ST4reEDeb.jpg"
+        },
+        "budget": 12000000,
+        "genres": [
+          {
+            "id": 878,
+            "name": "Fantascienza"
+          },
+          {
+            "id": 9648,
+            "name": "Mistero"
+          },
+          {
+            "id": 12,
+            "name": "Avventura"
+          }
+        ],
+        "homepage": "",
+        "id": 62,
+        "imdb_id": "tt0062622",
+        "origin_country": [
+          "US",
+          "GB"
+        ],
+        "original_language": "en",
+        "original_title": "2001: A Space Odyssey",
+        "overview": "Un gigantesco monolite, individuato sulla superficie lunare, trasmette dei messaggi radio in direzione del pianeta Giove. Per seguire il fascio di onde elettromagnetiche viene organizzata una spedizione che ben presto però si trova in balia del computer che governa l'astronave. La lotta avrà un solo vincitore.",
+        "popularity": 9.6135,
+        "poster_path": "/b5UQwYxeKoutvbtp3eLkY5iilJX.jpg",
+        "production_companies": [
+          {
+            "id": 385,
+            "logo_path": null,
+            "name": "Stanley Kubrick Productions",
+            "origin_country": "GB"
+          },
+          {
+            "id": 21,
+            "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1968-04-02",
+        "revenue": 71923560,
+        "runtime": 141,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Un'epica e drammatica avventura di esplorazione del cosmo.",
+        "title": "2001: Odissea nello spazio",
+        "video": false,
+        "vote_average": 8.065,
+        "vote_count": 11949
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Keir Dullea",
+          "Gary Lockwood",
+          "William Sylvester"
+        ]
+      },
+      "genres": [
+        "Fantascienza",
+        "Mistero",
+        "Avventura"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/ivPu3t2j4Fg",
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/62-2001-a-space-odyssey/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/vYA4qUPWY0EbjpcIXAL4h4pVmTC.jpg",
+        "belongs_to_collection": null,
+        "budget": 65000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 9648,
+            "name": "Mistero"
+          }
+        ],
+        "homepage": "http://www.wbshop.com/product/code/1000037439.do",
+        "id": 345,
+        "imdb_id": "tt0120663",
+        "origin_country": [
+          "GB",
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Eyes Wide Shut",
+        "overview": "Belli, ricchi e apparentemente felici, William e Alice Hartford sono ad un veglione a casa di amici; lei balla con un uomo che le fa una corte discreta ma serrata, lui flirta con alcune ragazze. Ancora sotto l'effetto della festa, alcuni giorni dopo Alice e William cominciano un pericoloso gioco della verità. Scioccato dalle rivelazioni di Alice, William esce ed inizia una peregrinazione per la città che lo porterà a scoprire nuovi mondi, persone insolite e soprattutto qualcosa di sé... e di Alice.",
+        "popularity": 9.5117,
+        "poster_path": "/bD8hpCfj7QLzmUpDo5DZidYu7bJ.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 385,
+            "logo_path": null,
+            "name": "Stanley Kubrick Productions",
+            "origin_country": "GB"
+          },
+          {
+            "id": 195,
+            "logo_path": null,
+            "name": "Pole Star",
+            "origin_country": "US"
+          },
+          {
+            "id": 194,
+            "logo_path": null,
+            "name": "Hobby Films",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1999-07-16",
+        "revenue": 162100000,
+        "runtime": 160,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Eyes Wide Shut",
+        "video": false,
+        "vote_average": 7.482,
+        "vote_count": 6509
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Tom Cruise",
+          "Nicole Kidman",
+          "Sydney Pollack"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Thriller",
+        "Mistero"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/QvJkKmPc3MI",
+      "providers": [
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/345-eyes-wide-shut/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/345-eyes-wide-shut/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/345-eyes-wide-shut/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/345-eyes-wide-shut/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/345-eyes-wide-shut/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/345-eyes-wide-shut/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/345-eyes-wide-shut/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/345-eyes-wide-shut/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/345-eyes-wide-shut/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/345-eyes-wide-shut/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/3hwKS7e21hzEnXZaOs2FE6e97bc.jpg",
+        "belongs_to_collection": null,
+        "budget": 2200000,
+        "genres": [
+          {
+            "id": 878,
+            "name": "Fantascienza"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "",
+        "id": 185,
+        "imdb_id": "tt0066921",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "A Clockwork Orange",
+        "overview": "Alex è un giovane senza arte né parte, figlio di proletari e dedito a furti, stupri e omicidi. Fa capo a una banda di spostati, denominati drughi. Dopo aver usato violenza alla moglie di uno scrittore finisce in carcere. Viene sottoposto ad angherie ma si fa amico un prete. Pur di essere scarcerato accetta il \"trattamento lodovico\", che consiste nell'assistere a filmati di violenza. Quando esce scopre che i genitori hanno subaffittato la sua stanza. Senza poter reagire, dovrà subire violenza da alcuni mendicanti vendicativi, dai drughi diventati poliziotti e dallo scrittore che ha perso la moglie e che ora si trova su una sedia a rotelle. Tenta il suicidio e all'ospedale riceve una visita di cortesia da parte del primo ministro.",
+        "popularity": 7.31,
+        "poster_path": "/vJS2cN4tyJu1OOhastxW85AMzt0.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 88,
+            "logo_path": null,
+            "name": "Hawk Films",
+            "origin_country": "GB"
+          },
+          {
+            "id": 385,
+            "logo_path": null,
+            "name": "Stanley Kubrick Productions",
+            "origin_country": "GB"
+          },
+          {
+            "id": 234371,
+            "logo_path": null,
+            "name": "Polaris Productions Limited",
+            "origin_country": "GB"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          }
+        ],
+        "release_date": "1971-12-19",
+        "revenue": 27033812,
+        "runtime": 137,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Le avventure di un giovane i cui principali interessi sono lo stupro, l'ultra-violenza e Beethoven.",
+        "title": "Arancia meccanica",
+        "video": false,
+        "vote_average": 8.186,
+        "vote_count": 13265
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Malcolm McDowell",
+          "Patrick Magee",
+          "Carl Duering"
+        ]
+      },
+      "genres": [
+        "Fantascienza",
+        "Crime"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/YEU98GX-Cag",
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/185-a-clockwork-orange/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/185-a-clockwork-orange/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/185-a-clockwork-orange/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/185-a-clockwork-orange/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/185-a-clockwork-orange/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/185-a-clockwork-orange/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/185-a-clockwork-orange/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/185-a-clockwork-orange/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/185-a-clockwork-orange/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/185-a-clockwork-orange/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+        "belongs_to_collection": null,
+        "budget": 30000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 10752,
+            "name": "Guerra"
+          }
+        ],
+        "homepage": "https://www.warnerbros.it/scheda-film/genere-drammatico/full-metal-jacket/",
+        "id": 600,
+        "imdb_id": "tt0093058",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Full Metal Jacket",
+        "overview": "In un campo di addestramento dei Marines nel South Carolina diciassette giovani civili vengono trasformati in macchine da guerra e di morte. Partito per il Vietnam, uno dei diciassette lavora per un giornale militare e si trova coinvolto nell'offensiva del Tet.",
+        "popularity": 7.0304,
+        "poster_path": "/swLFjsSM1iEo3yTWsBu9N4frfZk.jpg",
+        "production_companies": [
+          {
+            "id": 50819,
+            "logo_path": null,
+            "name": "Natant",
+            "origin_country": "US"
+          },
+          {
+            "id": 385,
+            "logo_path": null,
+            "name": "Stanley Kubrick Productions",
+            "origin_country": "GB"
+          },
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1987-06-26",
+        "revenue": 46357676,
+        "runtime": 115,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Vietnamese",
+            "iso_639_1": "vi",
+            "name": "Tiếng Việt"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Una pagina epica della guerra del Vietnam.",
+        "title": "Full Metal Jacket",
+        "video": false,
+        "vote_average": 8.123,
+        "vote_count": 10897
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Matthew Modine",
+          "Adam Baldwin",
+          "Vincent D'Onofrio"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Guerra"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/KSBf3JmVD9Y",
+      "providers": [
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/600-full-metal-jacket/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/600-full-metal-jacket/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/600-full-metal-jacket/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/600-full-metal-jacket/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/600-full-metal-jacket/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/600-full-metal-jacket/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/600-full-metal-jacket/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/600-full-metal-jacket/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/600-full-metal-jacket/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/600-full-metal-jacket/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/600-full-metal-jacket/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/600-full-metal-jacket/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/aheSIG4h3JNxWeDvdb1NxKzgjaM.jpg",
+        "belongs_to_collection": null,
+        "budget": 12000000,
+        "genres": [
+          {
+            "id": 36,
+            "name": "Storia"
+          },
+          {
+            "id": 10752,
+            "name": "Guerra"
+          },
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 12,
+            "name": "Avventura"
+          }
+        ],
+        "homepage": "",
+        "id": 967,
+        "imdb_id": "tt0054331",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Spartacus",
+        "overview": "Spartaco, uno schiavo portato a Roma per farne un gladiatore, si mette a capo della rivolta degli schiavi cercando di scappare dall'Italia. Riportato a Roma, verra crocifisso ma riuscirà, prima di morire, a vedere suo figlio libero.",
+        "popularity": 5.0163,
+        "poster_path": "/lHxOu8Gp1urxHgtS4o0AywrniG1.jpg",
+        "production_companies": [
+          {
+            "id": 611,
+            "logo_path": null,
+            "name": "Bryna Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1960-10-13",
+        "revenue": 60000000,
+        "runtime": 197,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Lo hanno addestrato a uccidere per il loro piacere ... ma lo hanno addestrato un po' troppo bene.",
+        "title": "Spartacus",
+        "video": false,
+        "vote_average": 7.541,
+        "vote_count": 2247
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Kirk Douglas",
+          "Laurence Olivier",
+          "Jean Simmons"
+        ]
+      },
+      "genres": [
+        "Storia",
+        "Guerra",
+        "Dramma",
+        "Avventura"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/967-spartacus/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/967-spartacus/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/967-spartacus/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/967-spartacus/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/967-spartacus/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/967-spartacus/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+        "belongs_to_collection": null,
+        "budget": 1800000,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Commedia"
+          },
+          {
+            "id": 10752,
+            "name": "Guerra"
+          }
+        ],
+        "homepage": "",
+        "id": 935,
+        "imdb_id": "tt0057012",
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "overview": "Uno psicopatico generale dell'aviazione USA, deciso a salvare il mondo dal complotto comunista, è pronto ad attaccare l'Unione Sovietica con armi nucleari. Uno dei pochi capolavori di satira politica nella storia del cinema che riflette gli incubi apocalittici dei primi anni '60. Il più forsennato e meno controllato film di Kubrick con Peter Sellers in 3 ruoli al culmine del suo istrionismo. Non vinse nemmeno uno dei 4 Oscar cui era candidato. Dal romanzo Red Alert (1958) di Peter George che lo sceneggiò con Terry Southern e il regista.",
+        "popularity": 4.3174,
+        "poster_path": "/eQG4dGLeOZZBSevOtSvSQhclp08.jpg",
+        "production_companies": [
+          {
+            "id": 88,
+            "logo_path": null,
+            "name": "Hawk Films",
+            "origin_country": "GB"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          }
+        ],
+        "release_date": "1964-01-29",
+        "revenue": 9500000,
+        "runtime": 95,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Ieri fantapolitica, oggi... quasi realtà. Questo film è la... fine del mondo!",
+        "title": "Il dottor Stranamore, ovvero: come ho imparato a non preoccuparmi e ad amare la bomba",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 5843
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Peter Sellers",
+          "George C. Scott",
+          "Sterling Hayden"
+        ]
+      },
+      "genres": [
+        "Commedia",
+        "Guerra"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/D3hJB9CFeqU",
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/935-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/935-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/935-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/935-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/935-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/935-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/935-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/935-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/okdg55jhsr9k1F2lxsZoQncrLZL.jpg",
+        "belongs_to_collection": null,
+        "budget": 11000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          },
+          {
+            "id": 10752,
+            "name": "Guerra"
+          },
+          {
+            "id": 36,
+            "name": "Storia"
+          }
+        ],
+        "homepage": "",
+        "id": 3175,
+        "imdb_id": "tt0072684",
+        "origin_country": [
+          "US",
+          "GB"
+        ],
+        "original_language": "en",
+        "original_title": "Barry Lyndon",
+        "overview": "La storia dell'avventuriero Redmond Barry, ambientata nell'Inghilterra del Settecento. Un eroe ambiguo e traballante, spinto da una cieca ambizione all'interno di una società violenta e classista.",
+        "popularity": 4.2017,
+        "poster_path": "/lnI1tA8SkCZ6zipZGTQvuHyJ3BM.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 88,
+            "logo_path": null,
+            "name": "Hawk Films",
+            "origin_country": "GB"
+          },
+          {
+            "id": 11272,
+            "logo_path": null,
+            "name": "Peregrine",
+            "origin_country": "GB"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1975-12-18",
+        "revenue": 31500000,
+        "runtime": 178,
+        "spoken_languages": [
+          {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Alla fine Redmond Barry divenne un gentiluomo, e quella fu la sua tragedia.",
+        "title": "Barry Lyndon",
+        "video": false,
+        "vote_average": 8.005,
+        "vote_count": 2962
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Ryan O'Neal",
+          "Marisa Berenson",
+          "Patrick Magee"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Romance",
+        "Guerra",
+        "Storia"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/vzGDebb1_po",
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3175-barry-lyndon/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3175-barry-lyndon/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3175-barry-lyndon/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3175-barry-lyndon/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3175-barry-lyndon/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3175-barry-lyndon/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3175-barry-lyndon/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3175-barry-lyndon/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3175-barry-lyndon/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/3175-barry-lyndon/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/xGiqZw1AJJ6BZRNUT1XVBMBofnr.jpg",
+        "belongs_to_collection": null,
+        "budget": 2000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 35,
+            "name": "Commedia"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 802,
+        "imdb_id": "tt0056193",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Lolita",
+        "overview": "Il docente Humbert, alloggiato presso la vedova Haze, la sposa pur di stare vicino alla figlia adolescente, di cui è innamorato. Quando la Haze muore, Humbert si mette finalmente con la ragazzina e con lei viaggia attraverso gli Stati Uniti. Lolita sparisce per poi riapparire tre anni dopo, sposata e incinta.",
+        "popularity": 4.0641,
+        "poster_path": "/67fLZxMQpAAVN5wbPPorgjpxbK2.jpg",
+        "production_companies": [
+          {
+            "id": 516,
+            "logo_path": "/ibZFDcpmcpY0emmO8mo1HCenlGk.png",
+            "name": "Seven Arts Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 216222,
+            "logo_path": null,
+            "name": "Harris Kubrick Pictures",
+            "origin_country": ""
+          },
+          {
+            "id": 216225,
+            "logo_path": null,
+            "name": "A.A. Productions, Ltd.",
+            "origin_country": ""
+          },
+          {
+            "id": 216226,
+            "logo_path": null,
+            "name": "Anya Pictures",
+            "origin_country": ""
+          },
+          {
+            "id": 518,
+            "logo_path": null,
+            "name": "Transworld Pictures",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1962-06-13",
+        "revenue": 9250000,
+        "runtime": 152,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Come è stato mai possibile realizzarlo?",
+        "title": "Lolita",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 2137
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "James Mason",
+          "Shelley Winters",
+          "Sue Lyon"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Commedia",
+        "Romance"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/802-lolita/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/802-lolita/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/802-lolita/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/802-lolita/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/802-lolita/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/802-lolita/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/802-lolita/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/802-lolita/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/802-lolita/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/802-lolita/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/354kfjVb96mtFALMhBE6jzHGiA2.jpg",
+        "belongs_to_collection": null,
+        "budget": 935000,
+        "genres": [
+          {
+            "id": 10752,
+            "name": "Guerra"
+          },
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 36,
+            "name": "Storia"
+          }
+        ],
+        "homepage": "",
+        "id": 975,
+        "imdb_id": "tt0050825",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Paths of Glory",
+        "overview": "Durante la Prima Guerra Mondiale, per uno stupido puntiglio, un generale francese ordina un attacco a una postazione tedesca praticamente inespugnabile. Il colonnello Dax, ufficiale coraggioso e onesto, capisce la follia dell'ordine e cerca di evitare la carneficina, ma, di fronte all'ottusità dei suoi superiori, è costretto a eseguire i comandi. L'assalto, naturalmente, fallisce, ma non è tutto: il tronfio generale fa fucilare tre soldati per vigliaccheria.",
+        "popularity": 3.2094,
+        "poster_path": "/q77lgcbE2Iuzp97AsZzViUTNvJ3.jpg",
+        "production_companies": [
+          {
+            "id": 611,
+            "logo_path": null,
+            "name": "Bryna Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 60,
+            "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+            "name": "United Artists",
+            "origin_country": "US"
+          },
+          {
+            "id": 52795,
+            "logo_path": null,
+            "name": "Harris-Kubrick Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1957-10-25",
+        "revenue": 1200000,
+        "runtime": 86,
+        "spoken_languages": [
+          {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Esplora la terra di nessuno che nessun film ha mai osato attraversare prima!",
+        "title": "Orizzonti di gloria",
+        "video": false,
+        "vote_average": 8.259,
+        "vote_count": 3068
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Kirk Douglas",
+          "Ralph Meeker",
+          "Adolphe Menjou"
+        ]
+      },
+      "genres": [
+        "Guerra",
+        "Dramma",
+        "Storia"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Amazon Prime Video",
+          "type": "flatrate",
+          "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/975-paths-of-glory/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "type": "flatrate",
+          "logo_path": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/975-paths-of-glory/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/975-paths-of-glory/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/975-paths-of-glory/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/975-paths-of-glory/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/975-paths-of-glory/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/975-paths-of-glory/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/975-paths-of-glory/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/dY0suaAdGpOqh7JkLeIN6lT7k9d.jpg",
+        "belongs_to_collection": null,
+        "budget": 320000,
+        "genres": [
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 247,
+        "imdb_id": "tt0049406",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Killing",
+        "overview": "John Clay, avanzo di galera ma con stile, sta organizzando un colpo a un ippodromo. Fanno parte della banda un poliziotto assillato dai creditori, un barista con tanto di moglie malata, un allibratore alcolizzato e un cassiere dell'ippodromo stesso. La rapina, condotta con meticolosa precisione, riesce, ma alla fine all'areoporto per colpa di un'odiosa signora e di un maledetto cagnolino...",
+        "popularity": 3.1109,
+        "poster_path": "/bkzdqKw7eJX2FZMJmvcBAb5wKmW.jpg",
+        "production_companies": [
+          {
+            "id": 60,
+            "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+            "name": "United Artists",
+            "origin_country": "US"
+          },
+          {
+            "id": 52795,
+            "logo_path": null,
+            "name": "Harris-Kubrick Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1956-06-06",
+        "revenue": 0,
+        "runtime": 83,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Con tutta la rabbia e la violenza.",
+        "title": "Rapina a mano armata",
+        "video": false,
+        "vote_average": 7.657,
+        "vote_count": 1604
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Sterling Hayden",
+          "Coleen Gray",
+          "Vince Edwards"
+        ]
+      },
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Amazon Prime Video",
+          "type": "flatrate",
+          "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/247-the-killing/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "type": "flatrate",
+          "logo_path": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/247-the-killing/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/247-the-killing/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/247-the-killing/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/247-the-killing/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/247-the-killing/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/e3o0Dwlzzpd4kJpOOJgVyMstnII.jpg",
+        "belongs_to_collection": null,
+        "budget": 53000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 10752,
+            "name": "Guerra"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 10165,
+        "imdb_id": "tt0045758",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Fear and Desire",
+        "overview": "Il film segue le vicende di una squadra di soldati precipitata per errore dietro le linee nemiche, che deve riuscire a raggiungere lo schieramento di appartenenza per trarsi in salvo. I soldati, durante il tragitto, incontrano una ragazza di campagna, la catturano, la legano ad un albero, e uno di loro mentalmente squilibrato la sevizia. Prima di riuscire a fuggire, i soldati determinano la posizione di una base nemica ed elaborano un piano per assassinare il suo comandante.",
+        "popularity": 2.7762,
+        "poster_path": "/8ur8rMXApDy3pzLKsMyAo3hCGnd.jpg",
+        "production_companies": [
+          {
+            "id": 385,
+            "logo_path": null,
+            "name": "Stanley Kubrick Productions",
+            "origin_country": "GB"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1953-03-31",
+        "revenue": 0,
+        "runtime": 62,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "In trappola ... 4 uomini disperati e una strana ragazza mezzo animale!",
+        "title": "Paura e desiderio",
+        "video": false,
+        "vote_average": 5.416,
+        "vote_count": 523
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Frank Silvera",
+          "Kenneth Harp",
+          "Paul Mazursky"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Guerra",
+        "Thriller"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/by6CSSM-UQg",
+      "providers": [
+        {
+          "name": "FilmBox+",
+          "type": "flatrate",
+          "logo_path": "/fbveJTcro9Xw2KuPIIoPPePHiwy.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/10165-fear-and-desire/watch?locale=IT"
+        },
+        {
+          "name": "Raro Video Amazon Channel",
+          "type": "flatrate",
+          "logo_path": "/vXXpcM5yoD8GBWi6U50dOiKgukH.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/10165-fear-and-desire/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/10165-fear-and-desire/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/10165-fear-and-desire/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/10165-fear-and-desire/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/10165-fear-and-desire/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/10165-fear-and-desire/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/10165-fear-and-desire/watch?locale=IT"
+        },
+        {
+          "name": "Plex",
+          "type": "free",
+          "logo_path": "/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/10165-fear-and-desire/watch?locale=IT"
+        },
+        {
+          "name": "JustWatchTV",
+          "type": "free",
+          "logo_path": "/uCMLyl8jGIbInVyDeCeV6kpciFm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/10165-fear-and-desire/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/5HisBYhc75h0DYXSMJWN1eFaxse.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 45970,
+        "imdb_id": "tt0043548",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Flying Padre",
+        "overview": "",
+        "popularity": 1.5137,
+        "poster_path": "/5aog5qVlMFakpogT1Nar9Z7gqq4.jpg",
+        "production_companies": [
+          {
+            "id": 6,
+            "logo_path": "/n53F7K9scQWFXYbrCablqLKqJdp.png",
+            "name": "RKO Radio Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1951-03-23",
+        "revenue": 0,
+        "runtime": 8,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Il padre volante",
+        "video": false,
+        "vote_average": 5.068,
+        "vote_count": 133
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Bob Hite",
+          "Fred Stadtmueller"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/7ZbNuSp186oxSjdtz5npRLLjVSb.jpg",
+        "belongs_to_collection": null,
+        "budget": 75000,
+        "genres": [
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 18,
+            "name": "Dramma"
+          }
+        ],
+        "homepage": "",
+        "id": 10056,
+        "imdb_id": "tt0048254",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Killer's Kiss",
+        "overview": "Dave Gordon, un pugile fallito, conosce Gloria che subisce le violenze di Raphael, proprietario del locale dove si esibisce come ballerina. I due si innamorano e vorrebbero partire insieme, ma Raphael fa rapire lei e ordina di ammazzare lui. L'ex pugile si salva per caso, ma finisce ricercato per l'omicidio della persona rimasta ucciso al posto suo. Dave individua la prigione di Gloria.",
+        "popularity": 1.0559,
+        "poster_path": "/mO5HvepNgmEhNRZez3yAg2R1YTV.jpg",
+        "production_companies": [
+          {
+            "id": 4323,
+            "logo_path": null,
+            "name": "Minotaur Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 60,
+            "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+            "name": "United Artists",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1955-10-01",
+        "revenue": 0,
+        "runtime": 67,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Il bacio dell'assassino",
+        "video": false,
+        "vote_average": 6.348,
+        "vote_count": 564
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Frank Silvera",
+          "Jamie Smith",
+          "Irene Kane"
+        ]
+      },
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Dramma"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/lt1Lan9bmG29JjqaMad5tkRpCHJ.jpg",
+        "belongs_to_collection": null,
+        "budget": 3900,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 45966,
+        "imdb_id": "tt0042384",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Day of the Fight",
+        "overview": "",
+        "popularity": 0.5384,
+        "poster_path": "/7OEwDK1Fdz8R7Xo9cDWANjiz7vH.jpg",
+        "production_companies": [
+          {
+            "id": 6,
+            "logo_path": "/n53F7K9scQWFXYbrCablqLKqJdp.png",
+            "name": "RKO Radio Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1951-04-26",
+        "revenue": 0,
+        "runtime": 13,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Il giorno del combattimento",
+        "video": false,
+        "vote_average": 5.748,
+        "vote_count": 163
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Vincent Cartier",
+          "Walter Cartier",
+          "Nat Fleischer"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    }
+  ]
+}

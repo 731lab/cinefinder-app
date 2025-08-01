@@ -1,0 +1,1807 @@
+{
+  "person": "Sylvester Stallone",
+  "results": [
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/3LIM0ynznzag0RNI6nHgYQH1brM.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 1275176,
+        "imdb_id": "tt32129935",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Arnold & Sly: Rivals, Friends, Icons",
+        "overview": "",
+        "popularity": 0.3221,
+        "poster_path": "/8LGiYX7vR0Tnk7YNJ7Wx8C1VVX9.jpg",
+        "production_companies": [
+          {
+            "id": 189031,
+            "logo_path": "/e0mVW7GtE0lZICeFFIa4409bgX0.png",
+            "name": "TMZ",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2024-04-23",
+        "revenue": 0,
+        "runtime": 43,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Arnold & Sly: Rivals, Friends, Icons",
+        "video": false,
+        "vote_average": 9.333,
+        "vote_count": 6
+      },
+      "credits": {
+        "director": "David Thies",
+        "cast": [
+          "Sylvester Stallone",
+          "Arnold Schwarzenegger",
+          "Harvey Levin"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/x4f4iEojvUfB5hM7Z7hMd5RLJNZ.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 649861,
+        "imdb_id": "tt11192896",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "One Night: Joshua vs. Ruiz",
+        "overview": "Il documentario segue l'attesa per la rivincita delle rivincite: Anthony Joshua cerca di riprendersi il titolo dei pesi massimi, sfidando Andy Ruiz a cinque mesi di distanza dall'incredibile match del 1° giugno 2019 al Madison Square Garden.",
+        "popularity": 0.218,
+        "poster_path": "/gRuMvvIj7ayBXaGjqYZ6lcv6x3s.jpg",
+        "production_companies": [
+          {
+            "id": 166120,
+            "logo_path": "/otEUziHlND4he9VvTtQU2gdULSS.png",
+            "name": "Balboa Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 132193,
+            "logo_path": "/itptDVJyYyxmumSuMO65BJMjlgN.png",
+            "name": "Evolve Studios",
+            "origin_country": "US"
+          },
+          {
+            "id": 135210,
+            "logo_path": "/uVtnYQgOoNZePh5Jm4f7mXNG1uH.png",
+            "name": "DAZN",
+            "origin_country": "GB"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2019-11-22",
+        "revenue": 0,
+        "runtime": 38,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "One Night: Joshua vs Ruiz",
+        "video": true,
+        "vote_average": 8.5,
+        "vote_count": 2
+      },
+      "credits": {
+        "director": "Deirdre Fenton",
+        "cast": [
+          "Anthony Joshua",
+          "Andy Ruiz Jr.",
+          "Mike Tyson"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/cdW045qbUjbvPIUxsXdsArcXs8K.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          },
+          {
+            "id": 10770,
+            "name": "televisione film"
+          }
+        ],
+        "homepage": "",
+        "id": 145308,
+        "imdb_id": "tt1687890",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Inferno: The Making of 'The Expendables'",
+        "overview": "",
+        "popularity": 1.2068,
+        "poster_path": "/ejMVMjjd7XPjfLDmf78vV3VNoYt.jpg",
+        "production_companies": [
+          {
+            "id": 925,
+            "logo_path": "/dIb9hjXNOkgxu4kBWdIdK8nM4w.png",
+            "name": "Nu Image",
+            "origin_country": "US"
+          },
+          {
+            "id": 696,
+            "logo_path": null,
+            "name": "Rogue Marble",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2010-11-14",
+        "revenue": 0,
+        "runtime": 92,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Inferno: The Making of 'The Expendables'",
+        "video": true,
+        "vote_average": 8.0,
+        "vote_count": 14
+      },
+      "credits": {
+        "director": "John Herzfeld",
+        "cast": [
+          "Sylvester Stallone",
+          "Jason Statham",
+          "Jet Li"
+        ]
+      },
+      "genres": [
+        "Documentario",
+        "televisione film"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+        "belongs_to_collection": {
+          "id": 284433,
+          "name": "Guardiani della Galassia - Collezione",
+          "poster_path": "/aWCMKcrM03oiHDnqDMiIFD5CedN.jpg",
+          "backdrop_path": "/sxyF4lVkEvOLVzr8jOF5K5nrMh3.jpg"
+        },
+        "budget": 250000000,
+        "genres": [
+          {
+            "id": 878,
+            "name": "Fantascienza"
+          },
+          {
+            "id": 12,
+            "name": "Avventura"
+          },
+          {
+            "id": 28,
+            "name": "Azione"
+          },
+          {
+            "id": 35,
+            "name": "Commedia"
+          }
+        ],
+        "homepage": "",
+        "id": 447365,
+        "imdb_id": "tt6791350",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Guardians of the Galaxy Vol. 3",
+        "overview": "Peter Quill, ancora provato dalla perdita di Gamora, deve riunire la sua squadra per difendere l'universo e proteggere uno di loro. Una missione che, se non sarà portata a termine con successo, potrebbe portare alla fine dei Guardiani così come li conosciamo.",
+        "popularity": 15.3813,
+        "poster_path": "/jY4MHLeiKmLZFwdMyWcJyDe7eC4.jpg",
+        "production_companies": [
+          {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+          },
+          {
+            "id": 176762,
+            "logo_path": null,
+            "name": "Kevin Feige Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-05-03",
+        "revenue": 845600000,
+        "runtime": 150,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Ancora una volta con sentimento.",
+        "title": "Guardiani della Galassia: Volume 3",
+        "video": false,
+        "vote_average": 7.934,
+        "vote_count": 7517
+      },
+      "credits": {
+        "director": "James Gunn",
+        "cast": [
+          "Chris Pratt",
+          "Zoe Saldaña",
+          "Dave Bautista"
+        ]
+      },
+      "genres": [
+        "Fantascienza",
+        "Avventura",
+        "Azione",
+        "Commedia"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/yrsVzqqX4Qk",
+      "providers": [
+        {
+          "name": "Disney Plus",
+          "type": "flatrate",
+          "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
+        "belongs_to_collection": {
+          "id": 1575,
+          "name": "Rocky - Collezione",
+          "poster_path": "/cSIGDpAoBOT0HPxL65aodLOxbQk.jpg",
+          "backdrop_path": "/yaXXemxz3ePNSrqNtc4ZAbuxJRv.jpg"
+        },
+        "budget": 1000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          }
+        ],
+        "homepage": "",
+        "id": 1366,
+        "imdb_id": "tt0075148",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Rocky",
+        "overview": "Rocky Balboa vivacchia a Filadelfia, riscuotendo i crediti di un usuraio italo-americano e vincendo qualche piccolo incontro come pugile dilettante. Con l'aiuto di un saggio allenatore accetta per amore di Adriana e per una borsa di 150000 dollari la sfida del nero Apollo Creed, campione dei pesi massimi, proponendosi non di vincere, ma di arrivare alla 15a ripresa.",
+        "popularity": 10.1148,
+        "poster_path": "/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg",
+        "production_companies": [
+          {
+            "id": 8880,
+            "logo_path": "/fE7LBw7Jz8R29EABFGCvWNriZxN.png",
+            "name": "Winkler Films",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1976-11-20",
+        "revenue": 225253184,
+        "runtime": 119,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Hai un posto in prima fila per il bicentenario più sanguinoso della storia!",
+        "title": "Rocky",
+        "video": false,
+        "vote_average": 7.79,
+        "vote_count": 8170
+      },
+      "credits": {
+        "director": "John G. Avildsen",
+        "cast": [
+          "Sylvester Stallone",
+          "Talia Shire",
+          "Burt Young"
+        ]
+      },
+      "genres": [
+        "Dramma"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/SoXnna77jOI",
+      "providers": [
+        {
+          "name": "Amazon Prime Video",
+          "type": "flatrate",
+          "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "type": "flatrate",
+          "logo_path": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/6HjL6Qmmb0ECwgV5eeCAQi8wssY.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 421057,
+        "imdb_id": "tt6099284",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "40 Years of Rocky: The Birth of a Classic",
+        "overview": "",
+        "popularity": 0.3792,
+        "poster_path": "/itLorKvIQHsmY0D22hiqQLHGIGT.jpg",
+        "production_companies": [
+          {
+            "id": 82328,
+            "logo_path": null,
+            "name": "AJ16 Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2020-06-09",
+        "revenue": 0,
+        "runtime": 30,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "40 Years of Rocky: The Birth of a Classic",
+        "video": false,
+        "vote_average": 7.622,
+        "vote_count": 49
+      },
+      "credits": {
+        "director": "Derek Wayne Johnson",
+        "cast": [
+          "Sylvester Stallone",
+          "John G. Avildsen",
+          "Carl Weathers"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/421057-40-years-of-rocky-the-birth-of-a-classic/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/421057-40-years-of-rocky-the-birth-of-a-classic/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/bW93ycPSSi3Hxx1NvlMX5qm2mQu.jpg",
+        "belongs_to_collection": {
+          "id": 284433,
+          "name": "Guardiani della Galassia - Collezione",
+          "poster_path": "/aWCMKcrM03oiHDnqDMiIFD5CedN.jpg",
+          "backdrop_path": "/sxyF4lVkEvOLVzr8jOF5K5nrMh3.jpg"
+        },
+        "budget": 200000000,
+        "genres": [
+          {
+            "id": 878,
+            "name": "Fantascienza"
+          },
+          {
+            "id": 12,
+            "name": "Avventura"
+          },
+          {
+            "id": 28,
+            "name": "Azione"
+          }
+        ],
+        "homepage": "https://marvel.com/guardians",
+        "id": 283995,
+        "imdb_id": "tt3896198",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Guardians of the Galaxy Vol. 2",
+        "overview": "Mentre sono alle prese con il mistero che avvolge le vere origini di Peter Quill, i Guardiani della Galassia dovranno combattere per mantenere unita la propria squadra. Il gruppo di eroi dovrà allearsi con vecchi nemici e potrà contare sull'aiuto di inaspettati alleati.",
+        "popularity": 19.3824,
+        "poster_path": "/gcFMqIqB4Sl3XEj1MuhGqWaL9Jp.jpg",
+        "production_companies": [
+          {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2017-04-19",
+        "revenue": 863756051,
+        "runtime": 137,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Ovviamente",
+        "title": "Guardiani della Galassia Vol. 2",
+        "video": false,
+        "vote_average": 7.612,
+        "vote_count": 22133
+      },
+      "credits": {
+        "director": "James Gunn",
+        "cast": [
+          "Chris Pratt",
+          "Zoe Saldaña",
+          "Dave Bautista"
+        ]
+      },
+      "genres": [
+        "Fantascienza",
+        "Avventura",
+        "Azione"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/zRmvEVSfElw",
+      "providers": [
+        {
+          "name": "Disney Plus",
+          "type": "flatrate",
+          "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/rTl1x2zvz6EqwlkEo8tZ7l1a8e0.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 126314,
+        "imdb_id": "tt2243299",
+        "origin_country": [
+          "HU"
+        ],
+        "original_language": "hu",
+        "original_title": "Final Cut: Hölgyeim és uraim",
+        "overview": "",
+        "popularity": 1.3278,
+        "poster_path": "/gWosAW69lxRNQ8ksnCizUHsVeGU.jpg",
+        "production_companies": [
+          {
+            "id": 17881,
+            "logo_path": "/uK1J3OJ4ywWApgxFO5dgPFbBjXo.png",
+            "name": "Színház- és Filmművészeti Egyetem",
+            "origin_country": "HU"
+          },
+          {
+            "id": 63370,
+            "logo_path": null,
+            "name": "MMKA",
+            "origin_country": ""
+          },
+          {
+            "id": 76889,
+            "logo_path": null,
+            "name": "HvD Productions",
+            "origin_country": "HU"
+          },
+          {
+            "id": 76890,
+            "logo_path": null,
+            "name": "L&G Hungary",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "HU",
+            "name": "Hungary"
+          }
+        ],
+        "release_date": "2012-02-04",
+        "revenue": 0,
+        "runtime": 84,
+        "spoken_languages": [
+          {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "english_name": "Hungarian",
+            "iso_639_1": "hu",
+            "name": "Magyar"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          },
+          {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Final Cut: Hölgyeim és uraim",
+        "video": false,
+        "vote_average": 7.573,
+        "vote_count": 75
+      },
+      "credits": {
+        "director": "György Pálfi",
+        "cast": [
+          "Brigitte Bardot",
+          "Alain Delon",
+          "Bruno Ganz"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Romance"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+        "belongs_to_collection": {
+          "id": 5039,
+          "name": "Rambo - Collezione",
+          "poster_path": "/9yztJmKa42XjQTNjHXUey2hj4HP.jpg",
+          "backdrop_path": "/ecvVwlK75evrAlsEE96V14KN6MN.jpg"
+        },
+        "budget": 15000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Azione"
+          },
+          {
+            "id": 12,
+            "name": "Avventura"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 10752,
+            "name": "Guerra"
+          }
+        ],
+        "homepage": "",
+        "id": 1368,
+        "imdb_id": "tt0083944",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "First Blood",
+        "overview": "Giunto in una cittadina del Nord alla ricerca di un ex commilitone del Vietnam, l'eroe di guerra John Rambo è arrestato per vagabondaggio da un arrogante sceriffo. Ribellatosi alla sua brutalità, Rambo fugge sulle montagne e viene braccato dai poliziotti. La sua perfetta preparazione militare gli consente di tenere in scacco oltre duecento uomini della Guardia Nazionale.",
+        "popularity": 7.1698,
+        "poster_path": "/dff9LLsvZWA6fKDlVkWeayK04od.jpg",
+        "production_companies": [
+          {
+            "id": 275,
+            "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
+            "name": "Carolco Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 52941,
+            "logo_path": null,
+            "name": "Anabasis",
+            "origin_country": "AN"
+          },
+          {
+            "id": 52940,
+            "logo_path": null,
+            "name": "Elcajo Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "AN",
+            "name": "Netherlands Antilles"
+          }
+        ],
+        "release_date": "1982-10-22",
+        "revenue": 125212904,
+        "runtime": 93,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Non sono qui per salvare Rambo da voi, ma voi da Rambo.",
+        "title": "Rambo",
+        "video": false,
+        "vote_average": 7.494,
+        "vote_count": 6521
+      },
+      "credits": {
+        "director": "Ted Kotcheff",
+        "cast": [
+          "Sylvester Stallone",
+          "Richard Crenna",
+          "Brian Dennehy"
+        ]
+      },
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Thriller",
+        "Guerra"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/lMJ6Go3u2sE",
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1368-first-blood/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1368-first-blood/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1368-first-blood/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1368-first-blood/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1368-first-blood/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1368-first-blood/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1368-first-blood/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1368-first-blood/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/rAgsOIhqRS6tUthmHoqnqh9PIAE.jpg",
+        "belongs_to_collection": {
+          "id": 531242,
+          "name": "Suicide Squad - Collezione",
+          "poster_path": "/1OCbjYENSzVcpQgOYLrV3B5598d.jpg",
+          "backdrop_path": "/e0uUxFdhdGLcvy9eC7WlO2eLusr.jpg"
+        },
+        "budget": 185000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Azione"
+          },
+          {
+            "id": 35,
+            "name": "Commedia"
+          },
+          {
+            "id": 12,
+            "name": "Avventura"
+          }
+        ],
+        "homepage": "",
+        "id": 436969,
+        "imdb_id": "tt6334354",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Suicide Squad",
+        "overview": "Benvenuti a Belle Reve, la prigione con il più alto tasso di mortalità degli Stati Uniti, dove sono rinchiusi i peggiori supercriminali, che faranno di tutto per uscirne - anche unirsi alla Task Force X. Il motto del giorno è 'O la va o la spacca': si riuniscano una serie di truffatori, tra cui Bloodsport, Peacemaker, Capitan Boomerang, Ratcatcher 2, Savant, King Shark, Blackguard, Javelin e la psicopatica più amata di tutti, Harley Quinn. Quindi si armino pesantemente e si lascino cadere (letteralmente) sulla remota isola di Corto Maltese, piena di nemici. Avventurandosi in una giungla brulicante di militanti e forze di guerriglia, la Squadra sarà coinvolta in una missione di ricerca e distruzione, sotto la guida sul territorio del colonnello Rick Flag... e le direttive di Amanda Waller nelle orecchie, che segue ogni loro movimento. E come sempre, ad ogni mossa falsa rischiano la morte. A voler scommetterci, la vincita è a loro sfavore - contro ognuno di loro.",
+        "popularity": 17.2399,
+        "poster_path": "/9MjzpAvNQv8zXeiDJIm58Xws0MD.jpg",
+        "production_companies": [
+          {
+            "id": 128064,
+            "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+            "name": "DC Films",
+            "origin_country": "US"
+          },
+          {
+            "id": 507,
+            "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+            "name": "Atlas Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 11565,
+            "logo_path": "/S74cHHbIrdmb5M51Pft72Uo9Gz.png",
+            "name": "The Safran Company",
+            "origin_country": "US"
+          },
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2021-06-06",
+        "revenue": 168717425,
+        "runtime": 132,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Sono pronti a morire per salvare il mondo.",
+        "title": "The Suicide Squad - Missione suicida",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 9002
+      },
+      "credits": {
+        "director": "James Gunn",
+        "cast": [
+          "Margot Robbie",
+          "Idris Elba",
+          "John Cena"
+        ]
+      },
+      "genres": [
+        "Azione",
+        "Commedia",
+        "Avventura"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/mrFHQtUycio",
+      "providers": [
+        {
+          "name": "Netflix",
+          "type": "flatrate",
+          "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/436969-the-suicide-squad/watch?locale=IT"
+        },
+        {
+          "name": "Netflix Standard with Ads",
+          "type": "flatrate",
+          "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/436969-the-suicide-squad/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/436969-the-suicide-squad/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/436969-the-suicide-squad/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/436969-the-suicide-squad/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/436969-the-suicide-squad/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/436969-the-suicide-squad/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/436969-the-suicide-squad/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/436969-the-suicide-squad/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/436969-the-suicide-squad/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/436969-the-suicide-squad/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/436969-the-suicide-squad/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/cRKHFW3sOmY0l3rlYjv4O1M2V45.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 10751,
+            "name": "Famiglia"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 10402,
+            "name": "Musica"
+          },
+          {
+            "id": 10770,
+            "name": "televisione film"
+          },
+          {
+            "id": 35,
+            "name": "Commedia"
+          },
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 117389,
+        "imdb_id": "tt0323321",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Muppets: A Celebration of 30 Years",
+        "overview": "",
+        "popularity": 0.2763,
+        "poster_path": "/ojkDl4RcI0DjxOpvtaDOIpPQpu.jpg",
+        "production_companies": [
+          {
+            "id": 24931,
+            "logo_path": "/8koBEDoVQXyEM8589PnI4Wyq5KA.png",
+            "name": "Henson Associates",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1986-01-21",
+        "revenue": 0,
+        "runtime": 48,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Muppets: A Celebration of 30 Years",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      "credits": {
+        "director": "Peter Harris",
+        "cast": [
+          "Jim Henson",
+          "Frank Oz",
+          "Jerry Nelson"
+        ]
+      },
+      "genres": [
+        "Famiglia",
+        "Fantasy",
+        "Musica",
+        "televisione film",
+        "Commedia",
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/xMnmJWBFZfcbx3nkkY48dbVoCgs.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 1321647,
+        "imdb_id": "tt22941980",
+        "origin_country": [
+          "NL"
+        ],
+        "original_language": "nl",
+        "original_title": "Like Tears in Rain",
+        "overview": "",
+        "popularity": 0.3164,
+        "poster_path": "/lNISGWB7PSl5YMgG5xj1q4vAEpH.jpg",
+        "production_companies": [
+          {
+            "id": 183305,
+            "logo_path": null,
+            "name": "Scenery",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "NL",
+            "name": "Netherlands"
+          }
+        ],
+        "release_date": "2024-09-22",
+        "revenue": 0,
+        "runtime": 81,
+        "spoken_languages": [
+          {
+            "english_name": "Dutch",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Like Tears in Rain",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      "credits": {
+        "director": "Sanna Fabery de Jonge",
+        "cast": [
+          "Rutger Hauer",
+          "Ineke ten Kate",
+          "Paul Verhoeven"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/lBX2EklMBEK5I0OIJWVJFr3DtmS.jpg",
+        "belongs_to_collection": {
+          "id": 553717,
+          "name": "Creed - Collezione",
+          "poster_path": "/nvwxOPoa4HVjeZk0PgHHbVCS3KL.jpg",
+          "backdrop_path": "/2hscwDISGOGGcHgn2ttogcnlWvl.jpg"
+        },
+        "budget": 37000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Azione"
+          },
+          {
+            "id": 18,
+            "name": "Dramma"
+          }
+        ],
+        "homepage": "https://www.warnerbros.it/scheda-film/genere-azione/creed-nato-combattere/",
+        "id": 312221,
+        "imdb_id": "tt3076658",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Creed",
+        "overview": "Adonis Creed, figlio illegittimo di Apollo, non ha mai conosciuto suo padre, morto sul ring prima che Adonis nascesse. Educato nell'agio dalla moglie di Apollo dopo un'infanzia difficile, Adonis ha un lavoro sicuro ma sceglie comunque la boxe e la strada, non può opporre resistenza al richiamo del destino. Per diventare un pugile professionista si rivolge all'unico uomo che può aiutarlo e insieme avvicinarlo a quel padre che non conoscerà mai: l'amico-rivale di Apollo, Rocky Balboa.",
+        "popularity": 9.0018,
+        "poster_path": "/mhqVOe6yxBpVQBIdMjDnGDSMTXB.jpg",
+        "production_companies": [
+          {
+            "id": 21,
+            "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+          },
+          {
+            "id": 12,
+            "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+          },
+          {
+            "id": 12252,
+            "logo_path": null,
+            "name": "Chartoff-Winkler Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2015-11-25",
+        "revenue": 173600000,
+        "runtime": 133,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Lotta per il tuo nome",
+        "title": "Creed - Nato per combattere",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 7637
+      },
+      "credits": {
+        "director": "Ryan Coogler",
+        "cast": [
+          "Michael B. Jordan",
+          "Sylvester Stallone",
+          "Tessa Thompson"
+        ]
+      },
+      "genres": [
+        "Azione",
+        "Dramma"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/my81HQ4UpQs",
+      "providers": [
+        {
+          "name": "Amazon Prime Video",
+          "type": "flatrate",
+          "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/312221-creed/watch?locale=IT"
+        },
+        {
+          "name": "Infinity Selection Amazon Channel",
+          "type": "flatrate",
+          "logo_path": "/q77DpszIupURiKGDeFdSHo7TsTF.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/312221-creed/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "type": "flatrate",
+          "logo_path": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/312221-creed/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/312221-creed/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/312221-creed/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/312221-creed/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/312221-creed/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/312221-creed/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/312221-creed/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/312221-creed/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/vsm3lGiGYFGSKc6vuDg6yAcISsC.jpg",
+        "belongs_to_collection": null,
+        "budget": 4000000,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Commedia"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 6949,
+        "imdb_id": "tt0069495",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "What's Up, Doc?",
+        "overview": "Giunto a San Francisco per una riunione della Federazione dei musicologi insieme alla insignificante fidanzata, il professor Howard s'imbatte nella dolce e svitata Judy Marwell, che gli si mette alle costole. Incidenti,  qui pro quo e botte con intrusione di ladri e poliziotti.",
+        "popularity": 1.4253,
+        "poster_path": "/g6tioZshDAnyda2D8t97AsEgZHY.jpg",
+        "production_companies": [
+          {
+            "id": 2153,
+            "logo_path": null,
+            "name": "Saticoy Productions",
+            "origin_country": ""
+          },
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1972-03-09",
+        "revenue": 66000000,
+        "runtime": 94,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Ma papà ti manda sola?",
+        "video": false,
+        "vote_average": 7.368,
+        "vote_count": 416
+      },
+      "credits": {
+        "director": "Peter Bogdanovich",
+        "cast": [
+          "Barbra Streisand",
+          "Ryan O'Neal",
+          "Madeline Kahn"
+        ]
+      },
+      "genres": [
+        "Commedia",
+        "Romance"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/6949-what-s-up-doc/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/6949-what-s-up-doc/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/6949-what-s-up-doc/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/6949-what-s-up-doc/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/yQtFsAby716b8JMlGls9Suzs87z.jpg",
+        "belongs_to_collection": {
+          "id": 1575,
+          "name": "Rocky - Collezione",
+          "poster_path": "/cSIGDpAoBOT0HPxL65aodLOxbQk.jpg",
+          "backdrop_path": "/yaXXemxz3ePNSrqNtc4ZAbuxJRv.jpg"
+        },
+        "budget": 7000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          }
+        ],
+        "homepage": "",
+        "id": 1367,
+        "imdb_id": "tt0079817",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Rocky II",
+        "overview": "Dopo la straordinaria impresa ottenuta nell'incontro con Apollo Creed, Rocky Balboa decide di lasciare la boxe, sposare Adriana,avere un bambino, investire i soldi guadagnati. Apollo Creed però non riesce a dimenticare la poco gloriosa vittoria dell'anno precedente e cerca di convincere Rocky ad accettare una rivincita.",
+        "popularity": 4.0297,
+        "poster_path": "/7ZiAuPyTiSodaqnOPPhGVEirevP.jpg",
+        "production_companies": [
+          {
+            "id": 60,
+            "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+            "name": "United Artists",
+            "origin_country": "US"
+          },
+          {
+            "id": 12252,
+            "logo_path": null,
+            "name": "Chartoff-Winkler Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1979-06-15",
+        "revenue": 85187855,
+        "runtime": 119,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Un volta combatteva per un sogno. Ora combatte per amore!",
+        "title": "Rocky II",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 4548
+      },
+      "credits": {
+        "director": "Sylvester Stallone",
+        "cast": [
+          "Sylvester Stallone",
+          "Talia Shire",
+          "Burt Young"
+        ]
+      },
+      "genres": [
+        "Dramma"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/de66rdMlPPA",
+      "providers": [
+        {
+          "name": "Amazon Prime Video",
+          "type": "flatrate",
+          "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1367-rocky-ii/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "type": "flatrate",
+          "logo_path": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1367-rocky-ii/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1367-rocky-ii/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1367-rocky-ii/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1367-rocky-ii/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1367-rocky-ii/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1367-rocky-ii/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1367-rocky-ii/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1367-rocky-ii/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1367-rocky-ii/watch?locale=IT"
+        }
+      ]
+    }
+  ]
+}

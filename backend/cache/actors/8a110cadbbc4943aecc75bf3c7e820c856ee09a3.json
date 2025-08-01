@@ -1,0 +1,1570 @@
+{
+  "person": "Jack Nicholson",
+  "results": [
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 1113682,
+        "imdb_id": "tt3984388",
+        "origin_country": [
+          "IT"
+        ],
+        "original_language": "en",
+        "original_title": "Close Up",
+        "overview": "",
+        "popularity": 0.5505,
+        "poster_path": "/76Wud5jsFJDMpBoRVzwluMZeaa.jpg",
+        "production_companies": [],
+        "production_countries": [
+          {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+          }
+        ],
+        "release_date": "2012-09-30",
+        "revenue": 0,
+        "runtime": 500,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Close Up",
+        "video": true,
+        "vote_average": 9.5,
+        "vote_count": 2
+      },
+      "credits": {
+        "director": "Tiziano Sossi",
+        "cast": [
+          "Michelangelo Antonioni",
+          "Asia Argento",
+          "Dario Argento"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
+        "belongs_to_collection": null,
+        "budget": 3000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          }
+        ],
+        "homepage": "",
+        "id": 510,
+        "imdb_id": "tt0073486",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "One Flew Over the Cuckoo's Nest",
+        "overview": "Candle McMurphy, arrestato per piccoli reati, viene portato in una clinica psichiatrica: tenta di fingersi pazzo per sfuggire al carcere. Qui viene a contatto con gli altri pazienti dei quali diventa ben presto il beniamino: si prende gioco delle sedute di psicoanalisi, si improvvisa telecronista, organizza una piccola gita in barca. L'ospedale è diretto dalla ferrea capoinfermiera, la signorina Ratched che ha organizzato la vita dei pazienti secondo regole di intransigente disciplina.",
+        "popularity": 9.3435,
+        "poster_path": "/hpg2j8FhnnmbiRpoOU09M0sffJu.jpg",
+        "production_companies": [
+          {
+            "id": 286,
+            "logo_path": null,
+            "name": "Fantasy Films",
+            "origin_country": ""
+          },
+          {
+            "id": 60,
+            "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+            "name": "United Artists",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1975-11-19",
+        "revenue": 108981275,
+        "runtime": 133,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Qualcuno volò sul nido del cuculo",
+        "video": false,
+        "vote_average": 8.413,
+        "vote_count": 10874
+      },
+      "credits": {
+        "director": "Miloš Forman",
+        "cast": [
+          "Jack Nicholson",
+          "Brad Dourif",
+          "Louise Fletcher"
+        ]
+      },
+      "genres": [
+        "Dramma"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/-FLAyG93K7k",
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/510-one-flew-over-the-cuckoo-s-nest/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/510-one-flew-over-the-cuckoo-s-nest/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/510-one-flew-over-the-cuckoo-s-nest/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/510-one-flew-over-the-cuckoo-s-nest/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+        "belongs_to_collection": {
+          "id": 530064,
+          "name": "Shining - Collezione",
+          "poster_path": "/iic9YD6zyz2mWIoHVaFy34N0MxX.jpg",
+          "backdrop_path": "/8L2bt7OWxrVhZPrFPkyZW4rEXzq.jpg"
+        },
+        "budget": 19000000,
+        "genres": [
+          {
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 694,
+        "imdb_id": "tt0081505",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Shining",
+        "overview": "L'aspirante scrittore Jack Torrance si trasferisce tra i monti per trovare il giusto isolamento che gli permetterà di completare il suo romanzo. L'uomo accetta quindi l'incarico di custode invernale di un enorme albergo tra le montagne, dove lo seguono la moglie e il figlioletto Danny, il quale possiede poteri paranormali che gli permettono di vedere nel passato e nel futuro.",
+        "popularity": 12.486,
+        "poster_path": "/shTUOizWjurXOl5Bp2riMvSNIbZ.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 11272,
+            "logo_path": null,
+            "name": "Peregrine",
+            "origin_country": "GB"
+          },
+          {
+            "id": 88,
+            "logo_path": null,
+            "name": "Hawk Films",
+            "origin_country": "GB"
+          },
+          {
+            "id": 734,
+            "logo_path": null,
+            "name": "The Producer Circle Co.",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1980-05-23",
+        "revenue": 44781695,
+        "runtime": 142,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "L'onda di terrore che ha spazzato l'America è qui.",
+        "title": "Shining",
+        "video": false,
+        "vote_average": 8.21,
+        "vote_count": 18066
+      },
+      "credits": {
+        "director": "Stanley Kubrick",
+        "cast": [
+          "Jack Nicholson",
+          "Shelley Duvall",
+          "Danny Lloyd"
+        ]
+      },
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/wtXItiRx8Jk",
+      "providers": [
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+        "belongs_to_collection": null,
+        "budget": 90000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "http://www.wbshop.com/product/code/1000121856.do",
+        "id": 1422,
+        "imdb_id": "tt0407887",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Departed",
+        "overview": "Boston. È in atto una guerra tra la polizia locale e una banda della malavita organizzata. Billy Costigan, giovane poliziotto in incognito, riceve l'incarico di infiltrarsi nella gang capeggiata dal boss Frank Costello. Mentre Billy guadagna rapidamente la fiducia di Costello, Colin Sullivan, giovane criminale incallito infiltrato nel dipartimento di polizia come informatore della gang, guadagna una posizione di rilievo nell'unità speciale di investigazione. Sia Billy che Colin vivono questa doppia vita come un'esperienza alienante, ma appena appare chiara l'esistenza di una talpa, sia all'interno della polizia che fra i gangster, entrambi dovranno, in una corsa contro il tempo, scoprire l'identità dell'altro per salvarsi.",
+        "popularity": 9.9177,
+        "poster_path": "/mSEFwJ1y7V3dmyfX0Yn4GIyXvqi.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 81,
+            "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+            "name": "Plan B Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 7380,
+            "logo_path": null,
+            "name": "Initial Entertainment Group",
+            "origin_country": "US"
+          },
+          {
+            "id": 829,
+            "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+            "name": "Vertigo Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 5552,
+            "logo_path": "/kZB9yp7OoveJ8wdynDcZEDtTbB2.png",
+            "name": "Media Asia Films",
+            "origin_country": "HK"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2006-10-04",
+        "revenue": 291465000,
+        "runtime": 149,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Bugie. Tradimento. Sacrificio. Fino a che punto lo porterai?",
+        "title": "The Departed - Il bene e il male",
+        "video": false,
+        "vote_average": 8.16,
+        "vote_count": 15426
+      },
+      "credits": {
+        "director": "Martin Scorsese",
+        "cast": [
+          "Leonardo DiCaprio",
+          "Matt Damon",
+          "Jack Nicholson"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Thriller",
+        "Crime"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/D7VttgIB_hg",
+      "providers": [
+        {
+          "name": "Infinity+",
+          "type": "flatrate",
+          "logo_path": "/tDlGQeD2LaDaHO62itqblktNwmM.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1422-the-departed/watch?locale=IT"
+        },
+        {
+          "name": "Infinity Selection Amazon Channel",
+          "type": "flatrate",
+          "logo_path": "/q77DpszIupURiKGDeFdSHo7TsTF.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1422-the-departed/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1422-the-departed/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1422-the-departed/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1422-the-departed/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1422-the-departed/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1422-the-departed/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/1422-the-departed/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/2sqEIKxlpYwoX5L84Zxbu6QRyv1.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 734586,
+        "imdb_id": "tt12920708",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Joker: Put on a Happy Face",
+        "overview": "",
+        "popularity": 0.4216,
+        "poster_path": "/am5Sst8LFmU0bhPrzU3km4RRy3J.jpg",
+        "production_companies": [
+          {
+            "id": 120268,
+            "logo_path": "/iv31nXw6IoA4ydUYVIHSYP4RL2T.png",
+            "name": "Narrator",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2020-08-18",
+        "revenue": 0,
+        "runtime": 36,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Joker: Put on a Happy Face",
+        "video": false,
+        "vote_average": 8.078,
+        "vote_count": 45
+      },
+      "credits": {
+        "director": "Sconosciuto",
+        "cast": [
+          "Kevin Conroy",
+          "Neal Adams",
+          "Will Arnett"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/eJ6kPtua2rEvjxHdCtnIobXJZSf.jpg",
+        "belongs_to_collection": {
+          "id": 359005,
+          "name": "Jake Gittes - Collezione",
+          "poster_path": "/bv2if3JS0E5IScbkrNJMmiJtcPF.jpg",
+          "backdrop_path": "/mPf6vo6hAzftf8qRS4qbwRVBBkJ.jpg"
+        },
+        "budget": 6000000,
+        "genres": [
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 9648,
+            "name": "Mistero"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 829,
+        "imdb_id": "tt0071315",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Chinatown",
+        "overview": "L'investigatore Gittes viene assoldato da una donna che si presenta come la signora Mulray per investigare sulla presunta infedeltà del marito. Riesce dopo diverso tempo a fotografarlo in compagnia di una giovane ragazza, ma si presenta al suo cospetto la vera moglie di Mulray che minaccia l'uomo. Intanto si ritrova il corpo senza vita del marito. Continuano quindi con molti pericoli le indagini di Gittes che lo condurranno da Noah Cross, padre della signora Mulray mentre la ragazza che tempo prima aveva fotografata era la sorella della donna. Le due donne cercheranno di fuggire dal padre possessivo, ma una finirà uccisa e l'altra ricondotta dal padre.",
+        "popularity": 4.7945,
+        "poster_path": "/sE4u0clq9OapsHK18LZrSbQIwtO.jpg",
+        "production_companies": [
+          {
+            "id": 4,
+            "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+            "name": "Paramount Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 10208,
+            "logo_path": null,
+            "name": "Long Road Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 94856,
+            "logo_path": null,
+            "name": "Robert Evans Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1974-06-20",
+        "revenue": 30000000,
+        "runtime": 130,
+        "spoken_languages": [
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Chinatown",
+        "video": false,
+        "vote_average": 7.916,
+        "vote_count": 3989
+      },
+      "credits": {
+        "director": "Roman Polanski",
+        "cast": [
+          "Jack Nicholson",
+          "Faye Dunaway",
+          "John Huston"
+        ]
+      },
+      "genres": [
+        "Crime",
+        "Dramma",
+        "Mistero",
+        "Thriller"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/mub-lo4YqjE",
+      "providers": [
+        {
+          "name": "Paramount Plus",
+          "type": "flatrate",
+          "logo_path": "/h5DcR0J2EESLitnhR8xLG1QymTE.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=IT"
+        },
+        {
+          "name": "Paramount+ Amazon Channel",
+          "type": "flatrate",
+          "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=IT"
+        },
+        {
+          "name": "Paramount Plus Apple TV Channel ",
+          "type": "flatrate",
+          "logo_path": "/tJqmTmQ8jp9WfyaZfApHK8lSywA.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/kQ8XfGdLVXqWbd63L7lg6Dm7mby.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 10402,
+            "name": "Musica"
+          },
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 44825,
+        "imdb_id": "tt0261024",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Live Aid",
+        "overview": "",
+        "popularity": 0.6297,
+        "poster_path": "/bK0KMcbe3LMIoCIBiIAlIRONJKL.jpg",
+        "production_companies": [
+          {
+            "id": 3324,
+            "logo_path": "/16fY7pucCzn7WSOYxOGRHlAayL3.png",
+            "name": "BBC",
+            "origin_country": "GB"
+          },
+          {
+            "id": 8136,
+            "logo_path": "/zHS0wY1haJ3GOvkHFOf8Dfjkyt3.png",
+            "name": "MTV",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1985-07-13",
+        "revenue": 150000000,
+        "runtime": 960,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Live Aid",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 49
+      },
+      "credits": {
+        "director": "Kenneth Shapiro",
+        "cast": [
+          "Bob Dylan",
+          "B.B. King",
+          "Cher"
+        ]
+      },
+      "genres": [
+        "Musica",
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/6HjL6Qmmb0ECwgV5eeCAQi8wssY.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 421057,
+        "imdb_id": "tt6099284",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "40 Years of Rocky: The Birth of a Classic",
+        "overview": "",
+        "popularity": 0.3792,
+        "poster_path": "/itLorKvIQHsmY0D22hiqQLHGIGT.jpg",
+        "production_companies": [
+          {
+            "id": 82328,
+            "logo_path": null,
+            "name": "AJ16 Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2020-06-09",
+        "revenue": 0,
+        "runtime": 30,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "40 Years of Rocky: The Birth of a Classic",
+        "video": false,
+        "vote_average": 7.622,
+        "vote_count": 49
+      },
+      "credits": {
+        "director": "Derek Wayne Johnson",
+        "cast": [
+          "Sylvester Stallone",
+          "John G. Avildsen",
+          "Carl Weathers"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/421057-40-years-of-rocky-the-birth-of-a-classic/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/421057-40-years-of-rocky-the-birth-of-a-classic/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/7o2H80NX43MYwtZlLoRJBKEdjUf.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 10402,
+            "name": "Musica"
+          },
+          {
+            "id": 10770,
+            "name": "televisione film"
+          },
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 31683,
+        "imdb_id": "tt0255444",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Barbra Streisand: One Voice",
+        "overview": "",
+        "popularity": 0.2321,
+        "poster_path": "/nDmaNZkK8F2FrCnJeXC6BVZxs3p.jpg",
+        "production_companies": [
+          {
+            "id": 3268,
+            "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+            "name": "HBO",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1986-12-27",
+        "revenue": 0,
+        "runtime": 68,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Barbra Streisand: One Voice",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 7
+      },
+      "credits": {
+        "director": "Dwight Hemion",
+        "cast": [
+          "Barbra Streisand",
+          "Barry Gibb",
+          "Robin Williams"
+        ]
+      },
+      "genres": [
+        "Musica",
+        "televisione film",
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/H40nWdJngUc6gtytMAbElm9HOu.jpg",
+        "belongs_to_collection": null,
+        "budget": 40000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          }
+        ],
+        "homepage": "",
+        "id": 881,
+        "imdb_id": "tt0104257",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "A Few Good Men",
+        "overview": "Due marines della base militare USA di Guantanamo a Cuba sono deferiti al tribunale militare per l'omicidio di un commilitone. Studiando la pratica, il trio dei difensori si convince che fu un'applicazione di \"codice rosso\", la norma non scritta che impone dure correzioni fisiche ai compagni che sbagliano e che, data la rigida disciplina, non poteva non essere stata autorizzata, anzi ordinata dai superiori.",
+        "popularity": 4.1439,
+        "poster_path": "/6nRfKEnhK0zAJEsKYqMKYKlo7z9.jpg",
+        "production_companies": [
+          {
+            "id": 903,
+            "logo_path": null,
+            "name": "David Brown Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1992-12-11",
+        "revenue": 243240178,
+        "runtime": 138,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Codice d'onore",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 3840
+      },
+      "credits": {
+        "director": "Rob Reiner",
+        "cast": [
+          "Tom Cruise",
+          "Jack Nicholson",
+          "Demi Moore"
+        ]
+      },
+      "genres": [
+        "Dramma"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/Ju7A8i8jMqM",
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 499235,
+        "imdb_id": "tt7842752",
+        "origin_country": [
+          "DE"
+        ],
+        "original_language": "de",
+        "original_title": "Jack Nicholson: Das Teuflische Grinsen Hollywoods",
+        "overview": "",
+        "popularity": 0.1466,
+        "poster_path": "/1HJxpnPjj6pnM78RLHLAbvo6EmQ.jpg",
+        "production_companies": [],
+        "production_countries": [
+          {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+          }
+        ],
+        "release_date": "2017-12-09",
+        "revenue": 0,
+        "runtime": 59,
+        "spoken_languages": [
+          {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Jack Nicholson: Das Teuflische Grinsen Hollywoods",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      "credits": {
+        "director": "Annette Baumeister",
+        "cast": [
+          "Jack Nicholson",
+          "Kathleen Turner",
+          "Henry Jaglom"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/tOXDvsaPPYkkSzNYfgDugrXCvlG.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 1039896,
+        "imdb_id": "tt23645538",
+        "origin_country": [
+          "FR"
+        ],
+        "original_language": "fr",
+        "original_title": "Clint Eastwood, la dernière légende",
+        "overview": "Il ritratto dell'ultimo cowboy leggenda di Hollywood si tuffa nei 65 anni di una straordinaria carriera a Hollywood, evidenziando film iconici come Il Buono, il Brutto, il Cattivo, ma anche Million Dollar Baby, Mystic River e Gran Torino fino a Cry Macho nel 2021. Non è un compito da poco coprire più di 60 anni di storia del cinema, soprattutto quando si cerca di esaminarli con tale ampiezza e diversità: star televisiva, star internazionale, icona controversa, regista contestato, cineasta con la F maiuscola, Eastwood ha vissuto tutto, ha sperimentato tutto, ed è prima di tutto questo percorso romantico, questa vera pastorale americana che il documentario vuole raccontare con tutta la passione possibile.",
+        "popularity": 0.4919,
+        "poster_path": "/prgnnNUls4VuYPnny4JvDKxSZ8W.jpg",
+        "production_companies": [
+          {
+            "id": 207,
+            "logo_path": "/uskenzq65wJe0cT0D8StQI3hJnO.png",
+            "name": "Agat Films & Cie / Ex Nihilo",
+            "origin_country": "FR"
+          },
+          {
+            "id": 201,
+            "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+            "name": "ARTE",
+            "origin_country": "FR"
+          },
+          {
+            "id": 10611,
+            "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+            "name": "Ciné+",
+            "origin_country": "FR"
+          },
+          {
+            "id": 310,
+            "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+            "name": "CNC",
+            "origin_country": "FR"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "FR",
+            "name": "France"
+          }
+        ],
+        "release_date": "2022-11-13",
+        "revenue": 0,
+        "runtime": 78,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Clint Eastwood - L'Eredità Cinematografica",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 18
+      },
+      "credits": {
+        "director": "Clélia Cohen",
+        "cast": [
+          "Clint Eastwood",
+          "Don Siegel",
+          "Sondra Locke"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/gS3rqjTHZRrkkwJXL1QkXtoIXOe.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 228633,
+        "imdb_id": "tt1144822",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "View from the Overlook: Crafting 'The Shining'",
+        "overview": "",
+        "popularity": 0.1076,
+        "poster_path": "/v7bYiTTmUhabNFB8Jc6y2sTchWd.jpg",
+        "production_companies": [
+          {
+            "id": 11302,
+            "logo_path": null,
+            "name": "Leva FilmWorks",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2007-10-23",
+        "revenue": 0,
+        "runtime": 30,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "View from the Overlook: Crafting 'The Shining'",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 7
+      },
+      "credits": {
+        "director": "Gary Leva",
+        "cast": [
+          "Jack Nicholson",
+          "Jan Harlan",
+          "Paul Duncan"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/2Rx61lWWkxR0jeaBi0H0CJQm35b.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 30416,
+        "imdb_id": "tt0278736",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Stanley Kubrick: A Life in Pictures",
+        "overview": "La carriera del cineasta è messa a fuoco in questo avvincente documentario che offre un'occhiata su Kubrick nei suoi primi anni, al lavoro su set cinematografici e a casa, arricchito da commenti spontanei di collaboratori, colleghi e famiglia.",
+        "popularity": 1.1035,
+        "poster_path": "/yGrzFNyc9ztyAJejneh9734Y9Uj.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2001-05-02",
+        "revenue": 0,
+        "runtime": 141,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Stanley Kubrick: A Life in Pictures",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 193
+      },
+      "credits": {
+        "director": "Jan Harlan",
+        "cast": [
+          "Tom Cruise",
+          "Barbara Kroner",
+          "Steven Marcus"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/30416-stanley-kubrick-a-life-in-pictures/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/30416-stanley-kubrick-a-life-in-pictures/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/30416-stanley-kubrick-a-life-in-pictures/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/30416-stanley-kubrick-a-life-in-pictures/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/x7y8ezKtU1vRInk0dmbvDoKgJ8u.jpg",
+        "belongs_to_collection": null,
+        "budget": 50000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 35,
+            "name": "Commedia"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 2898,
+        "imdb_id": "tt0119822",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "As Good as It Gets",
+        "overview": "Lui è un misantropo razzista, villano, paranoico, ossessionato da tic e complessi. Ma nella sua eccentrica vita stanno per entrare un pittore omosessuale con il suo delizioso cagnolino e una ragazza-madre che fa la cameriera.",
+        "popularity": 3.4003,
+        "poster_path": "/tmwubiSQ4IwJbRqSoyNFb7tMAVg.jpg",
+        "production_companies": [
+          {
+            "id": 559,
+            "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+            "name": "TriStar Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 18,
+            "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+            "name": "Gracie Films",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1997-12-19",
+        "revenue": 314178011,
+        "runtime": 139,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Guardatevi da Melvin",
+        "title": "Qualcosa è cambiato",
+        "video": false,
+        "vote_average": 7.396,
+        "vote_count": 3908
+      },
+      "credits": {
+        "director": "James L. Brooks",
+        "cast": [
+          "Jack Nicholson",
+          "Helen Hunt",
+          "Greg Kinnear"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Commedia",
+        "Romance"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2898-as-good-as-it-gets/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2898-as-good-as-it-gets/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "rent",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2898-as-good-as-it-gets/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2898-as-good-as-it-gets/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2898-as-good-as-it-gets/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2898-as-good-as-it-gets/watch?locale=IT"
+        },
+        {
+          "name": "Google Play Movies",
+          "type": "buy",
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2898-as-good-as-it-gets/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/2898-as-good-as-it-gets/watch?locale=IT"
+        }
+      ]
+    }
+  ]
+}

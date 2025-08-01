@@ -1,0 +1,1202 @@
+{
+  "person": "Brad Pitt",
+  "results": [
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 1185698,
+        "imdb_id": null,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Unity Temple: Frank Lloyd Wright’s Modern Masterpiece",
+        "overview": "",
+        "popularity": 0.2711,
+        "poster_path": "/u5BV2xsGrVyN3ilmXxItE5dljPm.jpg",
+        "production_companies": [
+          {
+            "id": 39134,
+            "logo_path": "/sijjN3vMtjCnc1LkCM7HSBErcO3.png",
+            "name": "Kino Lorber",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2022-08-30",
+        "revenue": 0,
+        "runtime": 55,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Unity Temple: Frank Lloyd Wright’s Modern Masterpiece",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      "credits": {
+        "director": "Lauren Levine",
+        "cast": [
+          "Brad Pitt"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 1232965,
+        "imdb_id": null,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Reach for the Stars",
+        "overview": "",
+        "popularity": 0.142,
+        "poster_path": "/i4v4AaEDjUX0o6l0fmNZIxIcnRa.jpg",
+        "production_companies": [
+          {
+            "id": 3635,
+            "logo_path": "/e4dCQJpJjwL46i1WuGpTIO3srL6.png",
+            "name": "20th Century Fox Home Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [],
+        "release_date": "2019-12-17",
+        "revenue": 0,
+        "runtime": 45,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Reach for the Stars",
+        "video": true,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      "credits": {
+        "director": "Laurent Bouzereau",
+        "cast": [
+          "James Gray",
+          "Ethan Gross",
+          "Jeremy Kleiner"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/dbwjITCa3adbDp2WEgLfRuhAI3W.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 1242980,
+        "imdb_id": null,
+        "origin_country": [
+          "PT"
+        ],
+        "original_language": "pt",
+        "original_title": "Nos Bastidores de Hollywood",
+        "overview": "",
+        "popularity": 0.8689,
+        "poster_path": "/2tbIAd61D03RPNvjouFq9CkyKWo.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2005-03-01",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Nos Bastidores de Hollywood",
+        "video": true,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      "credits": {
+        "director": "Sconosciuto",
+        "cast": [
+          "Mário Augusto",
+          "Antonio Banderas",
+          "Al Pacino"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/fVhL2VmyYfxo03ZFuDWUhvfID1o.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 576131,
+        "imdb_id": null,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Voom Portraits",
+        "overview": "",
+        "popularity": 0.2063,
+        "poster_path": "/h2XXLgiFJ0pfDZpv078ofPV4r3v.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2007-10-01",
+        "revenue": 0,
+        "runtime": 111,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Voom Portraits",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 2
+      },
+      "credits": {
+        "director": "Robert Wilson",
+        "cast": [
+          "Willem Dafoe",
+          "Winona Ryder",
+          "Lady Gaga"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 1389971,
+        "imdb_id": null,
+        "origin_country": [
+          "JP",
+          "MX",
+          "MA",
+          "US"
+        ],
+        "original_language": "es",
+        "original_title": "Common Ground: Under Construction Notes",
+        "overview": "",
+        "popularity": 0.2435,
+        "poster_path": "/yGyFN93iF1shzrZPkz894QRJfl6.jpg",
+        "production_companies": [
+          {
+            "id": 53638,
+            "logo_path": null,
+            "name": "Ollin Studio",
+            "origin_country": "MX"
+          },
+          {
+            "id": 97068,
+            "logo_path": null,
+            "name": "Babel Productions Inc.",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2007-09-30",
+        "revenue": 0,
+        "runtime": 96,
+        "spoken_languages": [
+          {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "العربية"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Common Ground: Under Construction Notes",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      "credits": {
+        "director": "Carlos Armella",
+        "cast": [
+          "Alejandro González Iñárritu",
+          "Rodrigo Prieto",
+          "Hiam Abbass"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 1421243,
+        "imdb_id": null,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Making of Se7en",
+        "overview": "",
+        "popularity": 0.1035,
+        "poster_path": null,
+        "production_companies": [
+          {
+            "id": 39657,
+            "logo_path": "/uJmO05SQwMGqpkQSkQY0eGRKF1L.png",
+            "name": "New Line Home Entertainment",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [],
+        "release_date": "1997-03-25",
+        "revenue": 0,
+        "runtime": 6,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Making of Se7en",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      "credits": {
+        "director": "Laurent Bouzereau",
+        "cast": [
+          "Morgan Freeman",
+          "Brad Pitt",
+          "Gwyneth Paltrow"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 1421107,
+        "imdb_id": "tt31362901",
+        "origin_country": [
+          "DE"
+        ],
+        "original_language": "de",
+        "original_title": "Die Brad Pitt Story",
+        "overview": "",
+        "popularity": 0.287,
+        "poster_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2020-02-11",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Die Brad Pitt Story",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      "credits": {
+        "director": "Sconosciuto",
+        "cast": [
+          "Brad Pitt"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 1113682,
+        "imdb_id": "tt3984388",
+        "origin_country": [
+          "IT"
+        ],
+        "original_language": "en",
+        "original_title": "Close Up",
+        "overview": "",
+        "popularity": 0.5505,
+        "poster_path": "/76Wud5jsFJDMpBoRVzwluMZeaa.jpg",
+        "production_companies": [],
+        "production_countries": [
+          {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+          }
+        ],
+        "release_date": "2012-09-30",
+        "revenue": 0,
+        "runtime": 500,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Close Up",
+        "video": true,
+        "vote_average": 9.5,
+        "vote_count": 2
+      },
+      "credits": {
+        "director": "Tiziano Sossi",
+        "cast": [
+          "Michelangelo Antonioni",
+          "Asia Argento",
+          "Dario Argento"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+        "belongs_to_collection": null,
+        "budget": 63000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 550,
+        "imdb_id": "tt0137523",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Fight Club",
+        "overview": "Un uomo di trent'anni è insofferente su tutto e la notte non riesce più a dormire. In cerca di qualche luogo dove scaricare la propria ansia si mette a frequentare quei corsi dove gruppi di malati gravi si riuniscono e confessano agli altri le rispettive situazioni. Mentre si lascia andare alla commozione e al pianto di fronte a quello che vede, l'uomo fa la conoscenza prima di Marla Singer poi di Tyler Durden. Lei è una ragazza a sua volta alla deriva, incapace di scelte o decisioni; lui è un tipo deciso e vigoroso con un'idea precisa in testa. Tyler fa saltare per aria l'appartamento dell'uomo e i due vanno a vivere insieme in una casa fatiscente. Deciso a coinvolgerlo nel suo progetto, Tyler lo fa entrare in un 'Fight Club', uno stanzone sotterraneo dove ci si riunisce per picchiarsi e in questo modo sentirsi di nuovo vivi...",
+        "popularity": 20.9831,
+        "poster_path": "/rtNLQ8HbPElzEfrHjrzSr07prKT.jpg",
+        "production_companies": [
+          {
+            "id": 711,
+            "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+            "name": "Fox 2000 Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 508,
+            "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+            "name": "Regency Enterprises",
+            "origin_country": "US"
+          },
+          {
+            "id": 4700,
+            "logo_path": "/A32wmjrs9Psf4zw0uaixF0GXfxq.png",
+            "name": "Linson Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+          },
+          {
+            "id": 20555,
+            "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+            "name": "Taurus Film",
+            "origin_country": "DE"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1999-10-15",
+        "revenue": 100853753,
+        "runtime": 139,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Combatti per sapere chi sei",
+        "title": "Fight Club",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 30526
+      },
+      "credits": {
+        "director": "David Fincher",
+        "cast": [
+          "Edward Norton",
+          "Brad Pitt",
+          "Helena Bonham Carter"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Thriller"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/FEqp8tSh1F4",
+      "providers": [
+        {
+          "name": "Disney Plus",
+          "type": "flatrate",
+          "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video",
+          "type": "flatrate",
+          "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Prime Video with Ads",
+          "type": "flatrate",
+          "logo_path": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "rent",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=IT"
+        },
+        {
+          "name": "Timvision",
+          "type": "buy",
+          "logo_path": "/6FDKQWcR6JfmRKLqezSsvGgRuUY.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/p1PLSI5Nw2krGxD7X4ulul1tDAk.jpg",
+        "belongs_to_collection": null,
+        "budget": 33000000,
+        "genres": [
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 9648,
+            "name": "Mistero"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 807,
+        "imdb_id": "tt0114369",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Se7en",
+        "overview": "Un killer astuto e spietato sta uccidendo a raffica, nei modi più raccapriccianti, personaggi scelti con cura. Sulle sue tracce ci sono il giovane e ambizioso Mills, alla prima missione, e l'esperto Somerset, ormai prossimo alla pensione; personalità opposte che mal si tollerano a vicenda. Imparano a \"convivere\" man mano che la caccia all'assassino si fa più serrata e il mistero comincia a districarsi.",
+        "popularity": 24.7828,
+        "poster_path": "/hdQ3mvAMtanWtOuk9Y2hL6h3KRu.jpg",
+        "production_companies": [
+          {
+            "id": 12,
+            "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+          },
+          {
+            "id": 4286,
+            "logo_path": null,
+            "name": "Juno Pix",
+            "origin_country": "US"
+          },
+          {
+            "id": 16775,
+            "logo_path": null,
+            "name": "Arnold Kopelson Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1995-09-22",
+        "revenue": 327311859,
+        "runtime": 128,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Lasciate che chi è senza peccato cerchi di sopravvivere.",
+        "title": "Seven",
+        "video": false,
+        "vote_average": 8.377,
+        "vote_count": 21904
+      },
+      "credits": {
+        "director": "David Fincher",
+        "cast": [
+          "Morgan Freeman",
+          "Brad Pitt",
+          "Gwyneth Paltrow"
+        ]
+      },
+      "genres": [
+        "Crime",
+        "Mistero",
+        "Thriller"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/hKUABU9uPmw",
+      "providers": [
+        {
+          "name": "Infinity+",
+          "type": "flatrate",
+          "logo_path": "/tDlGQeD2LaDaHO62itqblktNwmM.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/807-se7en/watch?locale=IT"
+        },
+        {
+          "name": "Infinity Selection Amazon Channel",
+          "type": "flatrate",
+          "logo_path": "/q77DpszIupURiKGDeFdSHo7TsTF.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/807-se7en/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+        "belongs_to_collection": null,
+        "budget": 70000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Dramma"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 10752,
+            "name": "Guerra"
+          }
+        ],
+        "homepage": "http://www.universalstudiosentertainment.com/inglourious-basterds/",
+        "id": 16869,
+        "imdb_id": "tt0361748",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Inglourious Basterds",
+        "overview": "Nella Francia occupata dai nazisti, durante la Seconda Guerra Mondiale, Shosanna Dreyfus assiste all'esecuzione della sua famiglia su ordine del colonnello nazista Hans Landa, ma riesce a fuggire a Parigi dove assume una nuova identità, come operatrice e titolare di un cinematografo. Nel frattempo, in un'altra località europea, il tenente Aldo Raine si mette alla guida di un gruppo di soldati ebrei conosciuti dai loro nemici come I Bastardi. Insieme ai suoi uomini, Raine collabora con con l'attrice tedesca Bridget Von Hammersmark, che in realtà è un agente segreto, in una missione speciale per rovesciare il Terzo Reich. Il loro destino si incrocerà con quello della Dreyfus, che tra l'altro sta pianificando una vendetta personale.",
+        "popularity": 18.8784,
+        "poster_path": "/aa1jLbxTTuA6o5ucHoZh2khwNSo.jpg",
+        "production_companies": [
+          {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 308,
+            "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+            "name": "The Weinstein Company",
+            "origin_country": "US"
+          },
+          {
+            "id": 59,
+            "logo_path": "/b1tj5EWcFQLYaQrw1D9V4s8kUgN.png",
+            "name": "A Band Apart",
+            "origin_country": "US"
+          },
+          {
+            "id": 6817,
+            "logo_path": null,
+            "name": "Zehnte Babelsberg Film",
+            "origin_country": "DE"
+          },
+          {
+            "id": 6818,
+            "logo_path": null,
+            "name": "Visiona Romantica",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2009-08-02",
+        "revenue": 321457747,
+        "runtime": 153,
+        "spoken_languages": [
+          {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Benvenuti alla delirante storia di una vendetta senza gloria",
+        "title": "Bastardi senza gloria",
+        "video": false,
+        "vote_average": 8.213,
+        "vote_count": 23050
+      },
+      "credits": {
+        "director": "Quentin Tarantino",
+        "cast": [
+          "Brad Pitt",
+          "Mélanie Laurent",
+          "Christoph Waltz"
+        ]
+      },
+      "genres": [
+        "Dramma",
+        "Thriller",
+        "Guerra"
+      ],
+      "trailer_url": "https://www.youtube.com/embed/bkFVk4zkxu0",
+      "providers": [
+        {
+          "name": "Sky Go",
+          "type": "flatrate",
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/16869-inglourious-basterds/watch?locale=IT"
+        },
+        {
+          "name": "Now TV",
+          "type": "flatrate",
+          "logo_path": "/g0E9h3JAeIwmdvxlT73jiEuxdNj.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/16869-inglourious-basterds/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "rent",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/16869-inglourious-basterds/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "rent",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/16869-inglourious-basterds/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "rent",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/16869-inglourious-basterds/watch?locale=IT"
+        },
+        {
+          "name": "Rakuten TV",
+          "type": "buy",
+          "logo_path": "/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/16869-inglourious-basterds/watch?locale=IT"
+        },
+        {
+          "name": "Apple TV",
+          "type": "buy",
+          "logo_path": "/9ghgSC0MA082EL6HLCW3GalykFD.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/16869-inglourious-basterds/watch?locale=IT"
+        },
+        {
+          "name": "Amazon Video",
+          "type": "buy",
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/16869-inglourious-basterds/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/aGi3beNxZQPdg8VzkwVXjXRKtVo.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 167466,
+        "imdb_id": "tt2279306",
+        "origin_country": [
+          "NZ",
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Propaganda",
+        "overview": "",
+        "popularity": 1.066,
+        "poster_path": "/BfV6p69Vic44AiZKQIoydsXNCW.jpg",
+        "production_companies": [
+          {
+            "id": 92459,
+            "logo_path": null,
+            "name": "Sabineprogram",
+            "origin_country": "NZ"
+          },
+          {
+            "id": 146877,
+            "logo_path": "/xdxXUXaOlu9HRJk4cQfZvmPeYfM.png",
+            "name": "Sideways Film",
+            "origin_country": "GB"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "NZ",
+            "name": "New Zealand"
+          }
+        ],
+        "release_date": "2013-02-14",
+        "revenue": 0,
+        "runtime": 96,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Propaganda",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 26
+      },
+      "credits": {
+        "director": "Slavko Martinov",
+        "cast": [
+          "Susannah Kenton",
+          "Eugene Chang",
+          "George W. Bush"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": [
+        {
+          "name": "WOW Presents Plus",
+          "type": "flatrate",
+          "logo_path": "/6dET59jNU0ADysghEjl8Unuc7Ca.jpg",
+          "direct_url": "https://www.themoviedb.org/movie/167466-propaganda/watch?locale=IT"
+        }
+      ]
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 594392,
+        "imdb_id": "tt0351127",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Jeff Buckley: Everybody Here Wants You",
+        "overview": "",
+        "popularity": 0.1172,
+        "poster_path": "/wA1PCrTEPfkf0xDaP4ahRmv6F2J.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2002-05-31",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Jeff Buckley: Everybody Here Wants You",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 2
+      },
+      "credits": {
+        "director": "Serena Cross",
+        "cast": [
+          "Jeff Buckley",
+          "Andi Oliver",
+          "Steve Berkowitz"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 99,
+            "name": "Documentario"
+          }
+        ],
+        "homepage": "",
+        "id": 923893,
+        "imdb_id": "tt12179456",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Brad Pitt & Jennifer Aniston: Hollywood's Couple of the Year",
+        "overview": "",
+        "popularity": 0.76,
+        "poster_path": null,
+        "production_companies": [],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2000-01-01",
+        "revenue": 0,
+        "runtime": 51,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Brad Pitt & Jennifer Aniston: Hollywood's Couple of the Year",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 2
+      },
+      "credits": {
+        "director": "Sconosciuto",
+        "cast": [
+          "Brad Pitt",
+          "Angelina Jolie"
+        ]
+      },
+      "genres": [
+        "Documentario"
+      ],
+      "trailer_url": null,
+      "providers": []
+    },
+    {
+      "tmdb": {
+        "adult": false,
+        "backdrop_path": "/Af4Q5zXIffaWLY9puJI7YAKUhuB.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Commedia"
+          }
+        ],
+        "homepage": "",
+        "id": 956057,
+        "imdb_id": "tt18924008",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Trainer",
+        "overview": "",
+        "popularity": 2.8769,
+        "poster_path": "/pi9sCv9qTKZtBpPweEk4cdlUov7.jpg",
+        "production_companies": [
+          {
+            "id": 81121,
+            "logo_path": "/1z9ocv9A1qlXhH1ehq2hFqIl0J5.png",
+            "name": "Imperative Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2024-10-20",
+        "revenue": 0,
+        "runtime": 95,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Trainer",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 2
+      },
+      "credits": {
+        "director": "Tony Kaye",
+        "cast": [
+          "Vito Schnabel",
+          "Julia Fox",
+          "Steven Van Zandt"
+        ]
+      },
+      "genres": [
+        "Commedia"
+      ],
+      "trailer_url": null,
+      "providers": []
+    }
+  ]
+}
