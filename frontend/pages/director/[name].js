@@ -4,7 +4,7 @@ import axios from 'axios';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Link from 'next/link';
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://cinefinder-backend-322727979682.europe-west1.run.app";
+const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://cinefinder-backend.vercel.app";
 
 export default function DirectorPage() {
   const router = useRouter();

@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 import Link from 'next/link';
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://cinefinder-backend-322727979682.europe-west1.run.app";
+const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://cinefinder-backend.vercel.app";
 
 export default function MoviePage() {
   const { id } = useRouter().query;

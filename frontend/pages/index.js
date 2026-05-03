@@ -13,7 +13,7 @@ export default function Home() {
   const [showSuggestions, setShowSuggestions] = useState(false);
   const [visibleCount, setVisibleCount] = useState(3);
 
-  const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://cinefinder-backend-322727979682.europe-west1.run.app";
+  const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://cinefinder-backend.vercel.app";
 
   const fetchSuggestions = async (q) => {
     if (q.length < 2) return setSuggestions([]);

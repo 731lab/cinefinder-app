@@ -12,7 +12,7 @@ export default function PersonPage() {
   const [loading, setLoading] = useState(false);
   const [sortBy, setSortBy] = useState('vote_average');
 
-  const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://cinefinder-backend-322727979682.europe-west1.run.app";
+  const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://cinefinder-backend.vercel.app";
 
   useEffect(() => {
     if (!name) return;
