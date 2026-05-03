@@ -220,6 +220,8 @@ export default function Home() {
 
         {result?.error && <div className="alert alert-danger">{result.error}</div>}
 
+        {Array.isArray(result) && renderCards(result)}
+
         {result?.person && (
           <>
             <h3 className="mb-4">Film con {result.person}:</h3>
