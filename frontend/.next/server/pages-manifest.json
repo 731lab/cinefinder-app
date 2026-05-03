@@ -1,9 +1,11 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
   "/_document": "pages/_document.js",
-  "/movie/[id]": "pages/movie/[id].js",
-  "/director/[name]": "pages/director/[name].js",
-  "/person/[name]": "pages/person/[name].js",
-  "/": "pages/index.js"
+  "/director/[name]": "pages/director/[name].html",
+  "/": "pages/index.html",
+  "/movie/[id]": "pages/movie/[id].html",
+  "/person/[name]": "pages/person/[name].html",
+  "/404": "pages/404.html"
 }
