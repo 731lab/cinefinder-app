@@ -1,6 +1,6 @@
 {
   "buildCommand": "pip install -r requirements.txt",
-  "framework": "python",
+  "runtime": "python@3.11",
   "functions": {
     "api/index.py": {
       "memory": 3008,

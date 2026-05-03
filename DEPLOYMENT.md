@@ -28,24 +28,38 @@
 
 ---
 
-## 🚀 Passo 2: Deployare il Backend su Vercel
+## 🚀 Passo 2: Deployare il Backend su Railway ⭐ CONSIGLIATO
 
-1. Vai su [vercel.com](https://vercel.com)
+Railway supporta FastAPI nativamente ed è molto più semplice di Vercel per Python.
+
+1. Vai su [railway.app](https://railway.app)
 2. Clicca **New Project**
-3. Seleziona il repo `cinefinder-backend`
-4. Configurazione:
-   - **Framework**: Python
-   - **Root Directory**: `/` (lascia di default)
-   - **Build Command**: `pip install -r requirements.txt` (Vercel rileva automaticamente)
-   
-5. **Environment Variables** → Aggiungi:
+3. Seleziona **Deploy from GitHub** e scegli il repo `cinefinder-backend`
+4. Railway rileva automaticamente che è un progetto Python
+5. **Environment** → Aggiungi le variabili:
    ```
    TMDB_API_KEY=your_key_here
    WATCHMODE_API_KEY=your_key_here
    ```
+6. Railway deploy automaticamente!
+
+**Copia l'URL del backend** dal Railway dashboard (es: `https://cinefinder-backend-production-xxxx.railway.app`)
+
+### Alternativa: Render
+
+Se preferisci Render invece di Railway:
+1. Vai su [render.com](https://render.com)
+2. **New** → **Web Service**
+3. Collega il repo `cinefinder-backend`
+4. Configurazione:
+   - **Runtime**: Python 3.11
+   - **Build Command**: `pip install -r requirements.txt`
+   - **Start Command**: `uvicorn api.index:app --host 0.0.0.0 --port 8000`
+5. Aggiungi le environment variables
 6. Deploy!
 
-**Copia l'URL del backend** (es: `https://cinefinder-backend-abc123.vercel.app`)
+### ❌ Vercel (NON consigliato per Python)
+Vercel supporta Python ma con limitazioni significative. FastAPI funziona meglio su Railway o Render.
 
 ---
 
