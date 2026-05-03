@@ -146,7 +146,8 @@ export default function Home() {
       </Head>
 
       <div className="container my-5">
-        <h1 className="text-center mb-4">CineFinder 🎬</h1>
+        <h1 className="text-center mb-1">CineFinder 🎬</h1>
+        <p className="text-center text-muted mb-4" style={{ fontSize: '0.85rem' }}>nuova versione 2.0.0 - Hosted by Vercel</p>
 
         <div className="d-flex justify-content-center mb-3 flex-wrap">
           {['movie', 'person', 'director'].map(type => (
