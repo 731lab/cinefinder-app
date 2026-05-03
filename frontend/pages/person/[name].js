@@ -12,12 +12,10 @@ export default function PersonPage() {
   const [loading, setLoading] = useState(false);
   const [sortBy, setSortBy] = useState('vote_average');
 
-  const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://cinefinder-backend.vercel.app";
-
   useEffect(() => {
     if (!name) return;
     setLoading(true);
-    axios.get(`${API_URL}/search`, {
+    axios.get(`/api/search`, {
       params: { q: name, type: 'person', sort_by: sortBy }
     })
       .then(res => setResult(res.data))

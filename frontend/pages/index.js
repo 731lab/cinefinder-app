@@ -13,8 +13,6 @@ export default function Home() {
   const [showSuggestions, setShowSuggestions] = useState(false);
   const [visibleCount, setVisibleCount] = useState(3);
 
-  const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://cinefinder-backend.vercel.app";
-
   const fetchSuggestions = async (q) => {
     if (q.length < 2) return setSuggestions([]);
     const endpoint = searchType === 'movie' ? 'movie' : 'person';
@@ -47,7 +45,7 @@ export default function Home() {
     setLoading(true);
     setVisibleCount(3);
     try {
-      const { data } = await axios.get(`${API_URL}/search?q=${encodeURIComponent(query)}&type=${searchType}`);
+      const { data } = await axios.get(`/api/search?q=${encodeURIComponent(query)}&type=${searchType}`);
       console.log("📦 Risultato completo:", data);
       setResult(data);
     } catch {

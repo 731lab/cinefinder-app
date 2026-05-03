@@ -4,8 +4,6 @@ import axios from 'axios';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Link from 'next/link';
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://cinefinder-backend.vercel.app";
-
 export default function DirectorPage() {
   const router = useRouter();
   const { name } = router.query;
@@ -17,7 +15,7 @@ export default function DirectorPage() {
     if (!name) return;
     setLoading(true);
 
-    const url = `${API_URL}/search?q=${name}&type=director`;
+    const url = `/api/search?q=${name}&type=director`;
     console.log("🔗 Chiamata API:", url);
 
     axios.get(url)

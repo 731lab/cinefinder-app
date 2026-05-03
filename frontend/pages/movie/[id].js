@@ -4,8 +4,6 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 import Link from 'next/link';
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://cinefinder-backend.vercel.app";
-
 export default function MoviePage() {
   const { id } = useRouter().query;
   const [m, setMovie] = useState(null);
@@ -13,7 +11,7 @@ export default function MoviePage() {
 
   useEffect(() => {
     if (!id) return;
-    axios.get(`${API_URL}/search?id=${id}&type=movie`)
+    axios.get(`/api/search?id=${id}&type=movie`)
       .then(res => setMovie(res.data))
       .catch(err => console.error("Errore nel fetch:", err))
       .finally(() => setLoading(false));
